@@ -14,6 +14,7 @@ Práctica 2 de la asignatura "Tipología y ciclo de vida de los datos" realizada
   * Práctica 2 - Tipologia.ipynb (Notebook de python en donde se encuentra desarrollado el código de la práctica)
   * Práctica 2 - Tipologia.html (Mismo archivo que el anterior pero en formato html para facilitar la visualización)
   * Práctica 2 - Tipologia.py (Mismo archivo que los anteriores pero en formato .py para facilitar la ejecución como script)
+  * Práctica 2 - Tipologia.pdf (Mismo archivo que los anteriores pero en formato .pdf)
 
 
 ## EJECUCIÓN PROGRAMA
