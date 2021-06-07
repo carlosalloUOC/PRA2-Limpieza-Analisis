@@ -1,0 +1,1304 @@
+,Company,TypeName,Inches,Ram(GB),OpSys,Weight(Kg),Price_euros,MemorySSD(GB),MemoryHDD(GB),MemoryFlash(GB),MemoryHybrid(GB),CPU_Company,CPU_Version,CPU_Speed(GHz),GPU_Company,GPU_Version,ScreenResolution_Type,ScreenResolution_Width,ScreenResolution_High
+0,Apple,Ultrabook,13.3,8,macOS,1.37,1339.69,128.0,0.0,0.0,0.0,Intel,Core i5,2.3,Intel,Iris Plus Graphics 640,IPS Panel Retina Display,2560,1600
+1,Apple,Ultrabook,13.3,8,macOS,1.34,898.94,0.0,0.0,128.0,0.0,Intel,Core i5,1.8,Intel,HD Graphics 6000,Unknown,1440,900
+2,HP,Notebook,15.6,8,No OS,1.86,575.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+3,Apple,Ultrabook,15.4,16,macOS,1.83,2537.45,512.0,0.0,0.0,0.0,Intel,Core i7,2.7,AMD,Radeon Pro 455,IPS Panel Retina Display,2880,1800
+4,Apple,Ultrabook,13.3,8,macOS,1.37,1803.6,256.0,0.0,0.0,0.0,Intel,Core i5,3.1,Intel,Iris Plus Graphics 650,IPS Panel Retina Display,2560,1600
+5,Acer,Notebook,15.6,4,Windows 10,2.1,400.0,0.0,500.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon R5,Unknown,1366,768
+6,Apple,Ultrabook,15.4,16,Mac OS X,2.04,2139.97,0.0,0.0,256.0,0.0,Intel,Core i7,2.2,Intel,Iris Pro Graphics,IPS Panel Retina Display,2880,1800
+7,Apple,Ultrabook,13.3,8,macOS,1.34,1158.7,0.0,0.0,256.0,0.0,Intel,Core i5,1.8,Intel,HD Graphics 6000,Unknown,1440,900
+8,Asus,Ultrabook,14.0,16,Windows 10,1.3,1495.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce MX150,Full HD,1920,1080
+9,Acer,Ultrabook,14.0,8,Windows 10,1.6,770.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+10,HP,Notebook,15.6,4,No OS,1.86,393.9,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+11,HP,Notebook,15.6,4,No OS,1.86,344.99,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+12,Apple,Ultrabook,15.4,16,macOS,1.83,2439.97,256.0,0.0,0.0,0.0,Intel,Core i7,2.8,AMD,Radeon Pro 555,IPS Panel Retina Display,2880,1800
+13,Dell,Notebook,15.6,4,Windows 10,2.2,498.9,256.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M430,Full HD,1920,1080
+14,Apple,Ultrabook,12.0,8,macOS,0.92,1262.4,256.0,0.0,0.0,0.0,Intel,Core M m3,1.2,Intel,HD Graphics 615,IPS Panel Retina Display,2304,1440
+15,Apple,Ultrabook,13.3,8,macOS,1.37,1518.55,256.0,0.0,0.0,0.0,Intel,Core i5,2.3,Intel,Iris Plus Graphics 640,IPS Panel Retina Display,2560,1600
+16,Dell,Notebook,15.6,8,Windows 10,2.2,745.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R5 M430,Full HD,1920,1080
+17,Apple,Ultrabook,15.4,16,macOS,1.83,2858.0,512.0,0.0,0.0,0.0,Intel,Core i7,2.9,AMD,Radeon Pro 560,IPS Panel Retina Display,2880,1800
+18,Lenovo,Notebook,15.6,8,No OS,2.2,499.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Nvidia,GeForce 940MX,Full HD,1920,1080
+19,Dell,Ultrabook,13.3,8,Windows 10,1.22,979.0,128.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+20,Asus,Netbook,11.6,2,Windows 10,0.98,191.9,0.0,0.0,32.0,0.0,Intel,Atom x5-Z8350,1.44,Intel,HD Graphics 400,Unknown,1366,768
+21,Lenovo,Gaming,15.6,8,Windows 10,2.5,999.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+22,HP,Notebook,15.6,4,No OS,1.86,258.0,0.0,500.0,0.0,0.0,AMD,E-Series E2-9000e,1.5,AMD,Radeon R2,Unknown,1366,768
+23,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,819.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD / Touchscreen,1920,1080
+24,HP,Ultrabook,15.6,8,Windows 10,1.91,659.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,HD Graphics 620,Full HD,1920,1080
+25,Dell,Notebook,15.6,4,Windows 10,2.3,418.64,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+26,Apple,Ultrabook,13.3,8,Mac OS X,1.35,1099.0,0.0,0.0,128.0,0.0,Intel,Core i5,1.6,Intel,HD Graphics 6000,Unknown,1440,900
+27,Dell,Notebook,15.6,8,Windows 10,2.2,800.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,Full HD,1920,1080
+28,Dell,Ultrabook,15.6,8,Windows 10,1.88,1298.0,512.0,0.0,0.0,0.0,Intel,Core i7 8650U,1.9,Intel,UHD Graphics 620,Full HD,1920,1080
+29,HP,Notebook,17.3,8,Windows 10,2.5,896.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce 930MX,Full HD,1920,1080
+30,Chuwi,Notebook,15.6,4,Windows 10,1.89,244.99,0.0,0.0,64.0,0.0,Intel,Atom x5-Z8300,1.44,Intel,HD Graphics,Full HD,1920,1080
+31,Asus,Notebook,14.0,2,Windows 10,1.65,199.0,0.0,0.0,32.0,0.0,AMD,E-Series E2-6110,1.5,AMD,Radeon R2,Unknown,1366,768
+32,HP,Notebook,17.3,4,Windows 10,2.71,439.0,0.0,500.0,0.0,0.0,AMD,A6-Series 9220,2.5,AMD,Radeon 530,Full HD,1920,1080
+33,Dell,Ultrabook,13.3,16,Windows 10,1.2,1869.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Touchscreen / Quad HD+,3200,1800
+34,Apple,Ultrabook,13.3,8,Mac OS X,1.35,998.0,0.0,0.0,256.0,0.0,Intel,Core i5,1.6,Intel,HD Graphics 6000,Unknown,1440,900
+35,Lenovo,Notebook,14.0,4,Windows 10,1.44,249.0,0.0,0.0,64.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+36,Acer,Notebook,15.6,4,Linux,2.1,367.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7130U,2.7,Intel,HD Graphics 620,Unknown,1366,768
+37,Dell,Notebook,17.3,8,Windows 10,2.8,979.0,128.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,IPS Panel Full HD,1920,1080
+38,HP,Notebook,15.6,4,Windows 10,1.86,488.69,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+39,HP,Notebook,15.6,8,Windows 10,2.1,879.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce 930MX ,Full HD,1920,1080
+40,Asus,Notebook,15.6,4,Linux,2.0,389.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 620,Full HD,1920,1080
+41,Dell,Gaming,15.6,16,Windows 10,2.65,1499.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+42,Asus,Notebook,15.6,8,Linux,2.3,522.99,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,Unknown,1366,768
+43,Acer,Notebook,15.6,4,Windows 10,2.2,682.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+44,Dell,2 in 1 Convertible,17.3,12,Windows 10,2.77,999.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce 150MX,Full HD / Touchscreen,1920,1080
+45,Apple,Ultrabook,13.3,8,macOS,1.37,1419.0,256.0,0.0,0.0,0.0,Intel,Core i5,2.0,Intel,Iris Graphics 540,IPS Panel Retina Display,2560,1600
+46,Lenovo,Notebook,15.6,4,No OS,2.2,369.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+47,Asus,Gaming,17.3,8,Windows 10,3.2,1299.0,256.0,1024.0,0.0,0.0,AMD,Ryzen 1700,3.0,AMD,Radeon RX 580,Full HD,1920,1080
+48,Dell,Notebook,15.6,4,Windows 10,2.3,639.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R5 M430,Full HD,1920,1080
+49,Asus,Notebook,17.3,4,Windows 10,2.8,466.0,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Nvidia,GeForce 920MX,Unknown,1366,768
+50,Lenovo,2 in 1 Convertible,10.1,4,Android,0.69,319.0,0.0,0.0,64.0,0.0,Intel,Atom x5-Z8550,1.44,Intel,HD Graphics 400,IPS Panel Touchscreen,1920,1200
+51,Acer,Notebook,15.6,8,Windows 10,2.2,841.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce MX150,IPS Panel Full HD,1920,1080
+52,HP,Notebook,15.6,4,Windows 10,1.86,398.49,256.0,0.0,0.0,0.0,AMD,A6-Series 9220,2.5,AMD,Radeon R4 Graphics,Full HD,1920,1080
+53,HP,Notebook,13.3,8,Windows 10,1.49,1103.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+54,Acer,Notebook,15.6,4,Windows 10,2.4,384.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+55,Dell,Notebook,15.6,8,Windows 10,2.13,767.8,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 520,Full HD,1920,1080
+56,HP,Notebook,15.6,4,Windows 10,1.91,439.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+57,Asus,Notebook,15.6,4,Windows 10,2.0,586.19,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+58,MSI,Gaming,17.3,16,Windows 10,2.43,2449.0,256.0,2048.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+59,Asus,Notebook,15.6,4,Linux,2.0,415.0,256.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+60,Dell,Notebook,17.3,16,Windows 10,2.8,1299.0,256.0,2048.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+61,Dell,Ultrabook,14.0,8,Windows 10,1.7,879.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+62,Lenovo,Notebook,14.0,8,No OS,1.7,599.0,256.0,0.0,0.0,0.0,Intel,Core i3 7130U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+63,Asus,Notebook,14.0,8,Windows 10,1.4,941.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+64,HP,Notebook,15.6,8,Windows 10,1.86,690.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+65,Asus,Ultrabook,15.6,16,Windows 10,1.8,1983.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+66,HP,Notebook,15.6,4,Windows 10,1.86,438.69,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon 520,Unknown,1366,768
+67,HP,Notebook,14.0,4,Windows 10,1.44,229.0,32.0,0.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+68,Lenovo,Notebook,15.6,4,Windows 10,1.9,549.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+69,Asus,Gaming,17.3,12,Linux,3.0,949.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+70,Microsoft,Ultrabook,13.5,4,Windows 10 S,1.252,1089.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Touchscreen,2256,1504
+71,Dell,Ultrabook,13.3,8,Windows 10,1.4,955.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,IPS Panel Full HD,1920,1080
+72,Dell,Notebook,15.6,8,Windows 10,2.2,870.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+73,MSI,Gaming,17.3,8,Windows 10,2.7,1095.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+74,Acer,Notebook,14.0,8,Windows 10,2.1,389.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+75,Asus,Gaming,15.6,8,Windows 10,2.2,949.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+76,Lenovo,Notebook,15.6,8,No OS,2.2,519.0,0.0,2048.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+77,Dell,Notebook,15.6,8,Windows 10,2.02,855.0,128.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+78,Acer,Notebook,15.6,4,Windows 10,2.2,530.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7130U,2.7,Nvidia,GeForce MX130,Full HD,1920,1080
+79,HP,Notebook,17.3,8,Windows 10,2.5,977.0,128.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce 930MX,Full HD,1920,1080
+80,Dell,Ultrabook,15.6,8,Windows 10,1.88,1096.16,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+81,Apple,Ultrabook,12.0,8,macOS,0.92,1510.0,512.0,0.0,0.0,0.0,Intel,Core i5,1.3,Intel,HD Graphics 615,IPS Panel Retina Display,2304,1440
+82,HP,Notebook,14.0,8,Windows 10,1.63,860.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,HD Graphics 620,Full HD,1920,1080
+83,Lenovo,Notebook,15.6,4,Windows 10,2.2,399.0,128.0,0.0,0.0,0.0,AMD,A6-Series 9220,2.5,AMD,R4 Graphics,Full HD,1920,1080
+84,Acer,Notebook,15.6,4,Windows 10,2.1,395.0,0.0,1024.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon R5,Unknown,1366,768
+85,Dell,Gaming,15.6,16,Windows 10,2.65,1349.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,IPS Panel Full HD,1920,1080
+86,HP,Ultrabook,15.6,8,Windows 10,1.83,699.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce GTX 940MX,IPS Panel Full HD,1920,1080
+87,HP,Notebook,15.6,8,Windows 10,1.96,598.99,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+88,Asus,Gaming,15.6,16,Windows 10,2.2,1449.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+89,Dell,Ultrabook,13.3,8,Windows 10,1.21,1649.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+90,Asus,Gaming,15.6,8,Windows 10,2.45,699.0,0.0,1024.0,0.0,0.0,AMD,FX 9830P,3.0,AMD,Radeon RX 560,Full HD,1920,1080
+91,Acer,Notebook,15.6,8,Windows 10,2.2,689.0,0.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce MX150,Full HD,1920,1080
+92,HP,Notebook,13.3,16,Windows 10,1.49,1197.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+93,Dell,Gaming,15.6,8,Windows 10,2.65,1195.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+94,Asus,Ultrabook,14.0,8,Windows 10,1.25,1049.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+95,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.5,847.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+96,Dell,Notebook,15.6,8,Linux,2.2,599.9,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R5 M430,Full HD,1920,1080
+97,Dell,Notebook,15.6,4,Linux,2.2,485.0,256.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M430,Full HD,1920,1080
+98,Asus,Notebook,15.6,6,Windows 10,2.0,577.0,256.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Nvidia,GeForce 920M,Full HD,1920,1080
+99,HP,Gaming,15.6,12,Windows 10,2.62,1249.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+100,HP,Notebook,15.6,8,Windows 10,1.91,719.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon 530,Full HD,1920,1080
+101,HP,Notebook,15.6,4,Windows 10,2.1,349.0,0.0,500.0,0.0,0.0,AMD,E-Series E2-9000e,1.5,AMD,Radeon R2,Full HD,1920,1080
+102,Dell,Notebook,15.6,8,Linux,2.2,647.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 520,Full HD,1920,1080
+103,HP,Ultrabook,13.3,8,Windows 10,1.38,1119.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce MX150,IPS Panel Full HD,1920,1080
+104,Microsoft,Ultrabook,13.5,8,Windows 10 S,1.252,1340.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Touchscreen,2256,1504
+105,HP,Notebook,14.0,6,Windows 10,1.58,659.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+106,Lenovo,Notebook,15.6,4,Windows 10,1.85,414.9,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+107,Asus,Ultrabook,14.0,8,Windows 10,1.3,1193.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+108,MSI,Gaming,15.6,16,Windows 10,2.2,1299.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+109,Lenovo,Notebook,14.0,8,Windows 10,1.58,1480.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+110,Asus,Ultrabook,15.6,16,Windows 10,1.5,1262.0,256.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce MX150,Full HD,1920,1080
+111,Dell,Ultrabook,13.3,8,Windows 10,1.23,1379.0,256.0,0.0,0.0,0.0,Intel,Core i7 7560U,2.4,Intel,Iris Plus Graphics 640,Quad HD+ / Touchscreen,3200,1800
+112,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1399.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+113,HP,Notebook,14.0,4,Windows 10,1.63,722.0,0.0,500.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel,1366,768
+114,Dell,Ultrabook,13.3,8,Windows 10,1.21,1629.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+115,HP,2 in 1 Convertible,13.3,8,Windows 10,1.26,1398.99,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+116,HP,Notebook,14.0,8,Windows 10,1.63,1084.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+117,Dell,Notebook,15.6,8,Windows 10,2.16,1130.33,256.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+118,Asus,Notebook,17.3,4,Windows 10,2.0,564.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Nvidia,GeForce 920MX,Full HD,1920,1080
+119,Asus,Notebook,15.6,8,Windows 10,1.7,1118.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce 940MX,Full HD,1920,1080
+120,Acer,Notebook,15.6,6,Windows 10,2.1,479.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+121,MSI,Gaming,15.6,16,Windows 10,1.8,2241.5,256.0,2048.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+122,Lenovo,Notebook,15.6,8,No OS,2.2,629.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,Full HD,1920,1080
+123,HP,Notebook,17.3,16,Windows 10,2.5,1271.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce 930MX ,Full HD,1920,1080
+124,Acer,Notebook,15.6,4,Windows 10,2.1,451.0,256.0,0.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon R5,Unknown,1366,768
+125,HP,Notebook,15.6,4,No OS,1.86,259.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+126,HP,Notebook,14.0,8,Windows 10,1.63,812.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+127,Asus,Notebook,14.0,4,Windows 10 S,1.65,277.99,64.0,0.0,0.0,0.0,AMD,E-Series 6110,1.5,AMD,Radeon R2,Unknown,1366,768
+128,Dell,Notebook,17.3,16,Windows 10,2.8,1396.0,256.0,2048.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+129,HP,Notebook,17.3,8,Windows 10,2.5,928.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+130,Dell,Notebook,15.6,8,Windows 10,2.36,638.99,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R7 M445,Unknown,1366,768
+131,Dell,Notebook,15.6,4,Windows 10,2.2,449.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M430,Full HD,1920,1080
+132,Acer,Ultrabook,14.0,8,Windows 10,1.6,884.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+133,Acer,Notebook,15.6,4,Windows 10,2.2,572.0,256.0,0.0,0.0,0.0,Intel,Core i3 7130U,2.7,Nvidia,GeForce MX130,Full HD,1920,1080
+134,HP,Notebook,15.6,8,Windows 10,2.05,598.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Unknown,1366,768
+135,HP,Notebook,14.0,8,Windows 10,1.63,988.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+136,Lenovo,Notebook,15.6,4,No OS,1.9,252.36,0.0,1024.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+137,Asus,Gaming,17.3,8,Windows 10,3.0,938.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+138,Lenovo,Notebook,15.6,4,No OS,2.2,499.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 920MX,Full HD,1920,1080
+139,HP,Notebook,13.3,4,Windows 10,1.32,699.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+140,Acer,Notebook,17.3,4,Windows 10,3.0,655.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7130U,2.7,Nvidia,GeForce MX130,IPS Panel Full HD,1920,1080
+141,Lenovo,Notebook,14.0,8,Windows 10,1.75,1116.02,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon RX 550,IPS Panel Full HD,1920,1080
+142,Lenovo,Gaming,15.6,8,No OS,2.4,869.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050M,IPS Panel Full HD,1920,1080
+143,Toshiba,Notebook,15.6,4,Windows 10,2.1,602.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+144,HP,Notebook,15.6,4,Windows 10,1.86,369.0,256.0,0.0,0.0,0.0,AMD,A6-Series 9220,2.5,AMD,Radeon R4 Graphics,Unknown,1366,768
+145,Asus,Ultrabook,14.0,8,Windows 10,1.25,1099.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+146,HP,Ultrabook,12.5,8,Windows 10,0.97,2014.0,512.0,0.0,0.0,0.0,Intel,Core M 6Y75,1.2,Intel,HD Graphics 515,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+147,Asus,Notebook,15.6,4,Windows 10,2.0,344.0,0.0,1024.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Full HD,1920,1080
+148,MSI,Gaming,17.3,16,Windows 10,2.9,2029.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+149,Acer,Notebook,15.6,4,Windows 10,2.1,447.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+150,Dell,Gaming,15.6,16,Windows 10,2.56,1249.26,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+151,Dell,Gaming,15.6,8,Windows 10,2.62,899.0,0.0,0.0,0.0,1024.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+152,Lenovo,Notebook,15.6,4,Windows 10,1.9,498.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+153,MSI,Gaming,17.3,16,Windows 10,2.8,1890.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+154,HP,Ultrabook,14.0,4,Windows 10,1.48,1082.0,256.0,0.0,0.0,0.0,Intel,Core i5 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+155,HP,Notebook,15.6,6,Windows 10,1.91,619.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 520,Full HD,1920,1080
+156,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.74,629.0,256.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+157,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1315.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+158,Dell,2 in 1 Convertible,15.6,8,Windows 10,1.56,1049.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD / Touchscreen,1920,1080
+159,Toshiba,Notebook,15.6,4,Windows 10,2.1,447.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.2,Intel,HD Graphics 520,Unknown,1366,768
+160,Asus,Notebook,15.6,4,Windows 10,2.03,403.0,0.0,1024.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon R5 M420,Unknown,1366,768
+161,Acer,Notebook,17.3,4,Windows 10,3.0,805.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce MX150,IPS Panel Full HD,1920,1080
+162,Dell,Notebook,15.6,8,Windows 10,2.13,728.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 520,Full HD,1920,1080
+163,Lenovo,Gaming,15.6,16,Windows 10,2.5,1079.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,IPS Panel Full HD,1920,1080
+164,Acer,Notebook,15.6,4,Windows 10,2.1,348.0,0.0,1024.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+165,MSI,Gaming,15.6,16,Windows 10,2.4,1799.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+166,Acer,Notebook,15.6,4,Windows 10,2.1,363.51,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Unknown,1366,768
+167,Dell,Gaming,15.6,8,Windows 10,2.56,1060.49,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+168,Acer,Notebook,17.3,8,Windows 10,3.0,854.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce MX150,IPS Panel Full HD,1920,1080
+169,HP,Notebook,13.3,4,Windows 10,1.49,754.0,0.0,500.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+170,Huawei,Ultrabook,13.0,8,Windows 10,1.05,1349.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,2160,1440
+171,HP,Notebook,17.3,6,Windows 10,2.71,699.0,0.0,2048.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon 520,IPS Panel Full HD,1920,1080
+172,Lenovo,Notebook,15.6,4,No OS,2.2,309.0,0.0,500.0,0.0,0.0,AMD,A6-Series 9220,2.9,AMD,Radeon R4 Graphics,Unknown,1366,768
+173,Toshiba,Notebook,15.6,4,Windows 10,2.0,489.0,0.0,500.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+174,HP,Notebook,17.3,8,Windows 10,2.5,923.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce 930MX,Full HD,1920,1080
+175,Dell,Notebook,15.6,8,Windows 10,2.3,459.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+176,Acer,Notebook,15.6,4,Windows 10,2.1,449.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+177,MSI,Gaming,18.4,32,Windows 10,4.4,2799.0,512.0,1024.0,0.0,0.0,Intel,Core i7 6920HQ,2.9,Nvidia,GTX 980 SLI,Full HD,1920,1080
+178,Lenovo,Notebook,15.6,8,Windows 10,1.9,813.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,R17M-M1-70,Full HD,1920,1080
+179,HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,1499.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+180,Dell,Notebook,15.6,16,Linux,2.02,1049.0,256.0,2048.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+181,Dell,Ultrabook,13.3,8,Windows 10,1.23,1399.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+182,Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,1849.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+183,Toshiba,Notebook,15.6,8,Windows 10,2.0,793.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+184,Xiaomi,Notebook,15.6,8,No OS,1.95,1199.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce MX150,IPS Panel Full HD,1920,1080
+185,Dell,Notebook,17.3,16,Windows 10,2.77,1549.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce 150MX,Full HD / Touchscreen,1920,1080
+186,Dell,Notebook,15.6,16,Windows 10,2.06,2397.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,4K Ultra HD / Touchscreen,3840,2160
+187,Lenovo,Gaming,15.6,8,No OS,2.4,779.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+188,Acer,Ultrabook,13.3,8,Windows 10,1.12,989.0,256.0,0.0,0.0,0.0,Intel,Core i5 7Y54,1.2,Intel,HD Graphics 615,IPS Panel Full HD,1920,1080
+189,Dell,Notebook,17.3,8,Windows 10,2.8,1085.0,128.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+190,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.42,2824.0,1024.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Touchscreen,2560,1440
+191,Vero,Notebook,14.0,4,Windows 10,1.3,260.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,IPS Panel Full HD,1920,1080
+192,Xiaomi,Ultrabook,13.3,8,No OS,1.3,999.9,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce MX150,IPS Panel Full HD,1920,1080
+193,Lenovo,Notebook,17.3,8,No OS,2.8,698.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce MX150,Unknown,1600,900
+194,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,839.0,0.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+195,HP,Notebook,17.3,8,Windows 10,2.5,914.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce 930MX,IPS Panel Full HD,1920,1080
+196,Razer,Gaming,17.3,32,Windows 10,3.49,6099.0,1024.0,0.0,0.0,0.0,Intel,Core i7 7820HK,2.9,Nvidia,GeForce GTX 1080,4K Ultra HD / Touchscreen,3840,2160
+197,HP,Notebook,13.3,8,Windows 10,1.49,959.0,512.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+198,HP,Gaming,17.3,16,Windows 10,3.35,1379.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+199,HP,Notebook,17.3,8,Windows 10,2.5,1045.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce 930MX ,Full HD,1920,1080
+200,Dell,Gaming,15.6,16,Windows 10,2.65,1845.0,512.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel 4K Ultra HD,3840,2160
+201,Lenovo,Notebook,15.6,4,Windows 10,2.1,493.0,128.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+202,Acer,Notebook,15.6,8,Windows 10,2.23,742.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+203,Lenovo,Gaming,15.6,16,Windows 10,3.2,1749.0,512.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+204,Dell,Workstation,15.6,16,Windows 10,2.8,3055.0,256.0,1024.0,0.0,0.0,Intel,Xeon E3-1505M V6,3.0,Nvidia,Quadro M1200,4K Ultra HD,3840,2160
+205,Lenovo,Gaming,15.6,16,No OS,2.4,1398.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+206,Dell,Notebook,15.6,6,Windows 10,2.3,439.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Touchscreen,1366,768
+207,Dell,Ultrabook,13.3,8,Windows 10,1.21,1949.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+208,Dell,Ultrabook,13.3,8,Windows 10,1.2,1449.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+209,Lenovo,Notebook,15.6,8,Windows 10,2.2,597.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+210,Acer,Notebook,15.6,8,Linux,2.4,779.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+211,Asus,Gaming,17.3,16,Windows 10,2.9,1407.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+212,HP,Notebook,15.6,4,No OS,2.1,349.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+213,Lenovo,Notebook,15.6,8,No OS,2.2,549.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+214,Huawei,Ultrabook,13.0,8,Windows 10,1.05,1499.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,2160,1440
+215,Dell,Ultrabook,13.3,8,Windows 10,1.4,931.88,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,IPS Panel Full HD,1920,1080
+216,Lenovo,Notebook,17.3,8,No OS,2.8,589.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce GTX 940MX,Unknown,1600,900
+217,HP,Notebook,14.0,8,Windows 10,1.63,1031.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce 930MX,Full HD,1920,1080
+218,Dell,Ultrabook,14.0,8,Windows 10,1.6,1149.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+219,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.62,1279.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD / Touchscreen,1920,1080
+220,Dell,Notebook,15.6,8,Linux,2.2,677.35,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 520,Full HD,1920,1080
+221,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.74,899.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+222,Toshiba,Ultrabook,13.3,8,Windows 10,1.2,1363.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+223,HP,Notebook,15.6,8,Windows 10,2.1,794.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+224,Dell,Gaming,17.3,16,Windows 10,4.42,2456.34,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+225,Acer,Notebook,15.6,8,Windows 10,2.2,832.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+226,Dell,Notebook,15.6,16,Windows 10,2.3,859.01,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R7 M445,Full HD / Touchscreen,1920,1080
+227,Asus,Notebook,15.6,8,Windows 10,2.0,769.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 920MX ,Full HD,1920,1080
+228,Asus,Notebook,17.3,8,Windows 10,2.69,891.0,256.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce GTX 950M,Full HD,1920,1080
+229,HP,Notebook,15.6,8,Windows 10,1.9,1269.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,FirePro W4190M ,Full HD,1920,1080
+230,Asus,Notebook,15.6,4,Windows 10,2.37,398.99,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+231,HP,Notebook,15.6,4,Windows 10,2.1,330.0,0.0,500.0,0.0,0.0,AMD,E-Series 9000e,1.5,AMD,Radeon R2,Unknown,1366,768
+232,Lenovo,Gaming,15.6,16,Windows 10,3.2,1499.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+233,Dell,Notebook,14.0,8,Windows 10,1.6,859.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+234,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,689.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+235,Dell,Notebook,15.6,16,Linux,2.36,899.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R7 M445,Full HD,1920,1080
+236,Acer,Notebook,15.6,4,Linux,2.1,390.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+237,Asus,Notebook,15.6,4,Windows 10,2.2,575.0,128.0,1024.0,0.0,0.0,AMD,A10-Series A10-9620P,2.5,AMD,Radeon R5 M430,Full HD,1920,1080
+238,Asus,Gaming,17.3,32,Windows 10,4.7,3890.0,512.0,1024.0,0.0,0.0,Intel,Core i7 7820HK,2.9,Nvidia,GeForce GTX 1080,Full HD,1920,1080
+239,Acer,Gaming,15.6,8,Windows 10,2.5,846.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+240,Lenovo,Notebook,15.6,8,Windows 10,2.2,589.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+241,Asus,Notebook,17.3,8,Windows 10,2.1,1145.0,128.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce 150MX,Full HD,1920,1080
+242,Asus,Notebook,17.3,8,No OS,2.69,889.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce GTX 950M,Full HD,1920,1080
+243,Dell,Gaming,15.6,8,Windows 10,2.56,879.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+244,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,1079.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+245,Dell,Notebook,15.6,8,Windows 10,2.2,985.0,128.0,2048.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+246,HP,Notebook,15.6,8,Windows 10,2.04,559.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Touchscreen,1366,768
+247,Asus,Gaming,17.3,16,Windows 10,3.6,2999.0,256.0,0.0,0.0,0.0,Intel,Core i7 7820HK,2.9,Nvidia,GeForce GTX 1080,Full HD,1920,1080
+248,HP,Notebook,13.3,4,Windows 10,1.49,675.0,0.0,500.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+249,Apple,Ultrabook,13.3,8,macOS,1.37,2040.0,512.0,0.0,0.0,0.0,Intel,Core i5,3.1,Intel,Iris Plus Graphics 650,IPS Panel Retina Display,2560,1600
+250,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.08,819.0,0.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+251,Asus,Gaming,17.3,16,Windows 10,4.3,1799.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 980M,Full HD,1920,1080
+252,Asus,Notebook,15.6,4,Windows 10,1.68,469.0,0.0,1024.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon R5 M420,Unknown,1366,768
+253,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.37,1849.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+254,Acer,Notebook,17.3,4,Windows 10,3.0,702.0,256.0,0.0,0.0,0.0,Intel,Core i3 7130U,2.7,Nvidia,GeForce MX130,IPS Panel Full HD,1920,1080
+255,Dell,Ultrabook,13.3,8,Windows 10,1.41,949.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+256,HP,Notebook,15.6,8,Windows 10,1.91,445.9,128.0,0.0,0.0,0.0,AMD,A6-Series A6-9220,2.5,AMD,Radeon R4 Graphics,Unknown,1366,768
+257,HP,Notebook,17.3,16,Windows 10,2.9,1059.0,0.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce MX150,IPS Panel Full HD,1920,1080
+258,MSI,Gaming,17.3,16,Windows 10,4.14,2499.0,512.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+259,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,1699.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050M,IPS Panel Full HD / Touchscreen,1920,1080
+260,Dell,Notebook,17.3,8,Windows 10,2.8,1142.0,128.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+261,Lenovo,Notebook,15.6,4,No OS,2.2,444.0,256.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+262,HP,Notebook,15.6,4,Windows 10,2.1,722.0,0.0,500.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+263,Dell,Notebook,15.6,4,Windows 10,2.18,657.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+264,Dell,Notebook,15.6,8,Windows 10,2.24,565.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R5 M430,Full HD,1920,1080
+265,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.67,799.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD / Touchscreen,1920,1080
+266,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1499.0,1024.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD / Touchscreen,1920,1080
+267,Lenovo,Notebook,15.6,4,No OS,2.2,467.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+268,HP,Notebook,17.3,8,Windows 10,2.5,1018.0,0.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce 930MX ,Full HD,1920,1080
+269,Lenovo,Notebook,15.6,8,Windows 10,2.05,880.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+270,Apple,Ultrabook,13.3,8,macOS,1.37,1958.9,512.0,0.0,0.0,0.0,Intel,Core i5,2.9,Intel,Iris Graphics 550,IPS Panel Retina Display,2560,1600
+271,Asus,Gaming,17.3,16,Windows 10,3.2,1549.0,256.0,1024.0,0.0,0.0,AMD,Ryzen 1700,3.0,AMD,Radeon RX 580,Full HD,1920,1080
+272,Dell,Notebook,15.6,8,Linux,2.14,735.07,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 520,Full HD,1920,1080
+273,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.36,2499.0,512.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,Touchscreen,2560,1440
+274,Toshiba,Notebook,15.6,8,Windows 10,2.2,812.0,0.0,500.0,0.0,0.0,Intel,Core i7 6500U,2.5,Nvidia,GeForce 930M,Unknown,1366,768
+275,Dell,Notebook,15.6,12,Windows 10,2.3,713.07,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Unknown,1366,768
+276,Dell,Notebook,17.3,8,Linux,2.8,1099.0,128.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+277,Acer,Notebook,15.6,8,Windows 10,2.2,745.0,0.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce MX130,IPS Panel Full HD,1920,1080
+278,Lenovo,Notebook,17.3,4,Windows 10,2.8,489.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1600,900
+279,Lenovo,Notebook,17.3,8,No OS,2.8,849.0,0.0,2048.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce MX150,Full HD,1920,1080
+280,Lenovo,Notebook,17.3,6,Windows 10,2.8,859.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Unknown,1600,900
+281,Dell,Notebook,15.6,4,Linux,2.25,428.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M430,Full HD,1920,1080
+282,Lenovo,Gaming,15.6,8,Windows 10,2.5,829.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+283,Lenovo,Notebook,15.6,6,Windows 10,2.2,579.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+284,Acer,Notebook,15.6,8,Windows 10,3.0,951.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce MX150,IPS Panel Full HD,1920,1080
+285,Acer,Notebook,15.6,12,Windows 10,2.15,659.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+286,Lenovo,Notebook,15.6,8,Windows 10,1.95,1097.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 630,IPS Panel Full HD,1920,1080
+287,Asus,Ultrabook,15.6,8,Windows 10,1.7,977.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,Full HD,1920,1080
+288,Lenovo,Gaming,15.6,16,Windows 10,2.5,1179.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,IPS Panel Full HD,1920,1080
+289,Lenovo,Notebook,15.6,8,No OS,2.2,659.01,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+290,Acer,Notebook,15.6,2,Chrome OS,2.19,199.0,16.0,0.0,0.0,0.0,Intel,Celeron Dual Core 3205U,1.5,Intel,HD Graphics,Unknown,1366,768
+291,Asus,Gaming,17.3,8,Windows 10,3.0,1187.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+292,HP,Notebook,17.3,8,Windows 10,2.54,489.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1600,900
+293,Dell,Notebook,15.6,8,Windows 10,2.0,1829.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+294,Lenovo,Notebook,15.6,8,Windows 10,2.05,739.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+295,Lenovo,Gaming,15.6,8,Windows 10,3.2,1299.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+296,Acer,Notebook,15.6,8,Linux,2.5,979.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+297,Dell,Workstation,17.3,16,Windows 10,3.42,2884.86,256.0,0.0,0.0,0.0,Intel,Core i7 7820HQ,2.9,Nvidia,Quadro M1200,Full HD,1920,1080
+298,Lenovo,Notebook,15.6,6,Windows 10,2.4,499.0,0.0,1024.0,0.0,0.0,AMD,A10-Series 9600P,2.4,AMD,Radeon R5 430,Full HD,1920,1080
+299,Asus,Ultrabook,15.6,16,Windows 10,1.63,1468.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+300,Asus,Notebook,14.0,4,Windows 10,1.3,509.0,128.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+301,Asus,Gaming,17.3,16,Windows 10,2.9,2122.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+302,Lenovo,Notebook,17.3,6,Windows 10,2.8,649.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce GTX 940M,Unknown,1600,900
+303,Lenovo,Notebook,15.6,8,No OS,2.2,549.0,0.0,2048.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,Unknown,1366,768
+304,Asus,Gaming,15.6,8,Windows 10,2.5,1265.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+305,Lenovo,Notebook,15.6,4,No OS,2.2,359.99,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Unknown,1366,768
+306,HP,2 in 1 Convertible,13.3,16,Windows 10,1.28,1975.0,256.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+307,Toshiba,Notebook,15.6,8,Windows 10,2.2,1043.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Nvidia,GeForce 930M,IPS Panel Full HD,1920,1080
+308,Lenovo,Notebook,15.6,8,Windows 10,2.3,819.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,Full HD,1920,1080
+309,HP,Notebook,15.6,4,Windows 10,1.86,469.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+310,Lenovo,Notebook,13.3,8,Windows 10,1.1,999.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+311,Dell,Ultrabook,13.3,16,Windows 10,1.21,2499.0,1024.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+312,MSI,Gaming,15.6,16,Windows 10,2.8,2099.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,IPS Panel Full HD,1920,1080
+313,Acer,Notebook,15.6,8,Windows 10,2.23,469.0,256.0,0.0,0.0,0.0,AMD,A8-Series 7410,2.2,AMD,Radeon R5,Full HD,1920,1080
+314,Asus,2 in 1 Convertible,11.6,2,Windows 10,1.1,275.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Touchscreen,1366,768
+315,Dell,Notebook,15.6,8,Windows 10,2.33,844.0,128.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,Full HD,1920,1080
+316,HP,2 in 1 Convertible,13.3,16,Windows 10,1.29,2449.0,1024.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+317,Lenovo,Notebook,13.3,4,Chrome OS,1.45,459.9,0.0,0.0,16.0,0.0,Intel,Celeron Dual Core 3855U,1.6,Intel,HD Graphics 510,Unknown,1366,768
+318,HP,Notebook,14.0,8,Windows 10,1.95,980.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+319,Acer,Notebook,11.6,4,Windows 10,1.4,485.0,0.0,0.0,128.0,0.0,Intel,Pentium Quad Core N3710,1.6,Intel,HD Graphics 405,Unknown,1366,768
+320,HP,Notebook,14.0,8,Windows 10,1.48,1292.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+321,Lenovo,Notebook,17.3,4,Windows 10,2.79,589.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 920MX,Unknown,1600,900
+322,Asus,Notebook,14.0,8,Windows 10,2.0,1094.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+323,HP,Notebook,15.6,8,Windows 10,2.1,902.0,0.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel Full HD,1366,768
+324,Acer,Notebook,15.6,8,Windows 10,2.2,659.0,256.0,0.0,0.0,0.0,AMD,A12-Series 9720P,2.7,AMD,Radeon RX 540,Unknown,1366,768
+325,Lenovo,Notebook,14.0,4,Windows 10,1.44,292.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+326,Acer,Notebook,15.6,6,Windows 10,2.23,549.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+327,Asus,Ultrabook,15.6,8,Windows 10,1.7,1049.9,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+328,HP,Ultrabook,12.5,8,Windows 10,1.26,1335.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+329,Dell,Notebook,15.6,32,Windows 10,2.06,2639.0,1024.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,4K Ultra HD / Touchscreen,3840,2160
+330,MSI,Gaming,17.3,8,Windows 10,2.7,1199.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+331,Toshiba,Notebook,15.6,8,Windows 10,2.0,943.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+332,Asus,Notebook,14.0,8,Windows 10,2.0,1334.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+333,Lenovo,Notebook,15.6,4,Windows 10,1.85,449.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+334,Asus,Gaming,15.6,8,Windows 10,2.5,999.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+335,HP,Notebook,14.0,8,Windows 10,1.48,1268.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Full HD,1920,1080
+336,Dell,Ultrabook,15.6,8,Windows 10,1.9,1049.0,128.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+337,HP,Notebook,15.6,8,Windows 10,1.84,1144.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+338,Asus,Notebook,15.6,4,Linux,2.0,274.99,0.0,1024.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+339,Dell,Notebook,15.6,8,Windows 10,2.0,1142.75,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce 940MX,Full HD,1920,1080
+340,Dell,Notebook,15.6,4,Linux,2.2,274.9,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics,Unknown,1366,768
+341,Lenovo,Notebook,15.6,12,Windows 10,2.2,899.0,0.0,2048.0,0.0,0.0,AMD,A12-Series 9720P,3.6,AMD,Radeon 530,Full HD,1920,1080
+342,HP,Notebook,15.6,8,Windows 10,2.1,716.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Nvidia,GeForce 930MX ,IPS Panel Full HD,1920,1080
+343,Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,2099.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+344,Dell,Ultrabook,13.3,8,Windows 10,1.2,1579.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+345,Lenovo,Gaming,15.6,16,Windows 10,2.4,1129.0,256.0,2048.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,IPS Panel Full HD,1920,1080
+346,HP,Notebook,14.0,2,Windows 10,1.44,279.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+347,Dell,Ultrabook,15.6,16,Windows 10,1.88,1607.96,768.0,0.0,0.0,0.0,Intel,Core i7 8650U,1.9,Intel,UHD Graphics 620,Full HD,1920,1080
+348,Asus,2 in 1 Convertible,11.6,4,Windows 10,1.5,375.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Touchscreen,1366,768
+349,Dell,Ultrabook,15.6,8,Windows 10,1.9,663.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,Full HD,1920,1080
+350,Dell,Notebook,15.6,16,Windows 10,2.06,2027.42,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,4K Ultra HD / Touchscreen,3840,2160
+351,HP,Notebook,15.6,8,Windows 10,1.84,1304.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+352,MSI,Gaming,17.3,8,Windows 10,2.7,1409.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+353,HP,Workstation,15.6,8,Windows 10,2.6,1738.27,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,Quadro M1200,Full HD,1920,1080
+354,Toshiba,Notebook,15.6,16,Windows 10,2.4,1403.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Nvidia,GeForce 930M,IPS Panel Full HD,1920,1080
+355,Dell,Notebook,15.6,8,Windows 10,2.02,970.9,128.0,2048.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+356,Lenovo,Notebook,15.6,4,No OS,2.2,321.99,0.0,1024.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+357,Dell,Gaming,15.6,8,Windows 10,2.65,999.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+358,Dell,Notebook,15.6,8,Windows 10,2.36,557.37,0.0,2048.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Touchscreen,1366,768
+359,Dell,Notebook,14.0,8,Windows 10,1.36,1427.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Full HD,1920,1080
+360,HP,Notebook,15.6,4,Windows 10,1.86,439.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+361,Asus,Notebook,14.0,8,Windows 10,2.0,945.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+362,Lenovo,Notebook,17.3,6,Windows 10,2.8,719.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce GTX 940MX,Unknown,1600,900
+363,HP,Notebook,15.6,8,Windows 10,1.86,639.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+364,Lenovo,Notebook,15.6,8,No OS,2.2,499.0,256.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Nvidia,GeForce 920MX ,Unknown,1366,768
+365,HP,Notebook,15.6,8,Windows 10,2.04,389.0,0.0,2048.0,0.0,0.0,Intel,Pentium Quad Core N3710,1.6,Intel,HD Graphics 405,Unknown,1366,768
+366,Dell,Notebook,17.3,8,Windows 10,2.8,1085.0,128.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,Full HD,1920,1080
+367,Lenovo,Gaming,15.6,8,No OS,2.4,809.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+368,Dell,Notebook,15.6,8,Windows 10,2.33,899.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R7 M445,Full HD,1920,1080
+369,HP,Ultrabook,14.0,8,Windows 10,1.36,1750.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+370,Asus,2 in 1 Convertible,15.6,12,Windows 10,2.26,1099.0,512.0,2048.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce GT 940MX,Full HD / Touchscreen,1920,1080
+371,Acer,Notebook,15.6,4,Windows 10,2.1,426.0,128.0,0.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon R5,Unknown,1366,768
+372,Asus,Gaming,17.3,16,Windows 10,3.25,2199.0,256.0,1024.0,0.0,0.0,AMD,Ryzen 1700,3.0,AMD,Radeon RX 580,IPS Panel Full HD,1920,1080
+373,Lenovo,Notebook,17.3,4,Windows 10,2.6,489.0,128.0,0.0,0.0,0.0,AMD,A8-Series 7410,2.2,AMD,Radeon R5,Unknown,1600,900
+374,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,869.01,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD / Touchscreen,1920,1080
+375,HP,Notebook,15.6,4,Windows 10,1.91,488.99,256.0,0.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon R5,Full HD,1920,1080
+376,Lenovo,Netbook,11.6,4,Windows 10,1.59,553.0,128.0,0.0,0.0,0.0,Intel,Celeron Quad Core N3450,1.1,Intel,HD Graphics 500,IPS Panel,1366,768
+377,Dell,Notebook,15.6,4,Windows 10,1.8,309.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+378,Asus,Notebook,14.0,4,Windows 10,1.5,286.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+379,Acer,Notebook,15.6,8,Linux,2.4,846.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+380,HP,Gaming,17.3,8,Windows 10,3.35,1191.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+381,Lenovo,Notebook,15.6,4,No OS,1.85,403.5,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+382,Asus,Gaming,15.6,8,Windows 10,2.3,1655.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+383,Lenovo,Notebook,14.0,8,Windows 10,1.5,1099.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+384,Asus,Ultrabook,13.3,16,Windows 10,1.1,1748.9,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+385,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,2282.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel,2560,1440
+386,Lenovo,Notebook,13.3,4,Windows 10,1.5,549.0,128.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+387,Dell,Workstation,15.6,8,Windows 10,2.23,1369.0,0.0,500.0,0.0,0.0,Intel,Core i5 6440HQ,2.6,AMD,FirePro W5130M,Full HD,1920,1080
+388,Dell,Workstation,15.6,8,Windows 10,2.0,2135.0,256.0,0.0,0.0,0.0,Intel,Core i7 6820HQ,2.7,Nvidia,Quadro M1200,IPS Panel Full HD,1920,1080
+389,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.42,2509.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Touchscreen,2560,1440
+390,Asus,Gaming,17.3,8,Windows 10,3.0,1039.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+391,Asus,Gaming,17.3,16,Windows 10,3.0,1591.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+392,Acer,Notebook,15.6,12,Windows 10,2.2,693.99,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce MX130,IPS Panel,1366,768
+393,MSI,Gaming,17.3,8,Windows 10,2.7,1349.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+394,Dell,Notebook,15.6,8,Linux,2.33,778.87,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R7 M445,Full HD,1920,1080
+395,HP,Ultrabook,15.6,4,Windows 10,1.91,499.0,256.0,0.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon 520,Full HD,1920,1080
+396,Lenovo,Notebook,15.6,8,Windows 10,2.1,1229.56,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon RX 550,IPS Panel Full HD,1920,1080
+397,Lenovo,Notebook,14.0,8,Windows 10,1.9,938.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+398,Dell,Workstation,15.6,8,Windows 10,1.78,2712.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,Quadro M1200,4K Ultra HD / Touchscreen,3840,2160
+399,Lenovo,Ultrabook,14.0,16,Windows 10,1.13,2625.0,1024.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel,2560,1440
+400,Lenovo,Notebook,15.6,4,Windows 10,2.2,306.0,0.0,1024.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+401,Asus,Gaming,17.3,16,Windows 10,2.9,1529.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+402,Lenovo,Notebook,15.6,8,Windows 10,2.1,1144.5,256.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon RX 550,IPS Panel Full HD,1920,1080
+403,Acer,Notebook,15.6,8,Linux,2.5,879.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+404,MSI,Gaming,17.3,16,Windows 10,2.8,2249.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+405,Asus,Ultrabook,14.0,8,Windows 10,1.1,1873.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+406,Toshiba,Ultrabook,13.3,16,Windows 10,1.2,1747.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+407,Dell,Ultrabook,14.0,8,Windows 10,1.36,1680.0,512.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Intel,HD Graphics,Full HD,1920,1080
+408,Lenovo,Notebook,15.6,4,Windows 10,2.2,409.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+409,Lenovo,Notebook,11.6,2,Windows 10,1.15,304.45,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+410,Lenovo,Workstation,15.6,8,Windows 10,2.67,1925.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,Quadro M1200,Full HD,1920,1080
+411,Lenovo,Ultrabook,14.0,8,Windows 10,1.7,1943.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GT 940MX,IPS Panel Full HD,2560,1440
+412,HP,Notebook,15.6,4,Windows 10,2.1,469.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon 520,Full HD,1920,1080
+413,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,789.01,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+414,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.27,928.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+415,Dell,Notebook,15.6,4,Linux,2.3,598.9,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R5 M430,Full HD,1920,1080
+416,Dell,Notebook,13.3,4,Windows 10,1.65,689.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+417,HP,Ultrabook,14.0,8,Windows 10,1.43,1500.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+418,Dell,Notebook,15.6,8,Windows 10,2.14,539.95,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+419,Lenovo,Ultrabook,14.0,8,Windows 10,1.75,1215.38,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon RX 550,IPS Panel Full HD,1920,1080
+420,Lenovo,2 in 1 Convertible,15.6,16,Windows 10,2.0,1899.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+421,Chuwi,Notebook,12.3,6,Windows 10,1.4,449.0,0.0,0.0,64.0,0.0,Intel,Celeron Quad Core N3450,1.1,Intel,HD Graphics 500,IPS Panel Retina Display,2736,1824
+422,HP,Notebook,15.6,8,Windows 10,2.31,1427.0,256.0,0.0,0.0,0.0,Intel,Core i7 7820HQ,2.9,Intel,HD Graphics 630,Full HD,1920,1080
+423,Asus,Notebook,15.6,8,Linux,2.3,597.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Nvidia,GeForce 940MX,Full HD,1920,1080
+424,Dell,Gaming,17.3,16,Windows 10,4.42,2799.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7820HK,2.9,Nvidia,GeForce GTX 1070,IPS Panel,2560,1440
+425,Dell,Gaming,15.6,8,Windows 10,2.62,1159.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,IPS Panel Full HD,1920,1080
+426,Dell,Notebook,15.6,8,Windows 10,2.02,1142.4,256.0,2048.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+427,Dell,Ultrabook,14.0,8,Linux,1.6,1099.0,256.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Intel,HD Graphics 620,Full HD,1920,1080
+428,HP,Gaming,17.3,12,Windows 10,3.35,1999.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+429,Mediacom,2 in 1 Convertible,11.6,4,Windows 10,1.16,299.0,32.0,0.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,IPS Panel Full HD / Touchscreen,1920,1080
+430,Samsung,Netbook,11.6,4,Chrome OS,1.15,269.0,0.0,0.0,16.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+431,Lenovo,Notebook,13.3,8,Windows 10,1.4,1010.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+432,Lenovo,Notebook,14.0,4,Windows 10,1.7,599.0,128.0,0.0,0.0,0.0,Intel,Core i3 7130U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+433,Lenovo,Workstation,15.6,16,Windows 10,2.3,2445.0,512.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Nvidia,GeForce 940MX,IPS Panel 4K Ultra HD,3840,2160
+434,Lenovo,Notebook,15.6,16,Windows 10,2.5,2449.0,512.0,0.0,0.0,0.0,Intel,Core i7 7820HQ,2.9,Nvidia,Quadro M2200M,Full HD,1920,1080
+435,Asus,Gaming,17.3,8,Windows 10,3.2,1695.0,256.0,1024.0,0.0,0.0,AMD,Ryzen 1600,3.2,AMD,Radeon RX 580,Full HD,1920,1080
+436,HP,Notebook,15.6,4,Windows 10,2.1,347.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+437,Google,Ultrabook,12.3,16,Chrome OS,1.1,2199.0,512.0,0.0,0.0,0.0,Intel,Core i7 7Y75,1.3,Intel,HD Graphics 615,Touchscreen,2400,1600
+438,Lenovo,Ultrabook,14.0,24,Windows 10,1.32,2382.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Unknown,2560,1440
+439,Asus,Notebook,15.6,4,Linux,2.0,559.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+440,Lenovo,Notebook,17.3,8,Windows 10,2.8,519.0,0.0,1024.0,0.0,0.0,AMD,A6-Series 9220,2.5,AMD,Radeon R4,Unknown,1600,900
+441,Dell,Notebook,15.6,4,Windows 10,2.2,749.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,Full HD,1920,1080
+442,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1429.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+443,Lenovo,Notebook,15.6,4,Windows 10,2.2,349.0,128.0,0.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Full HD,1920,1080
+444,HP,Gaming,15.6,8,Windows 10,2.2,1099.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+445,Dell,Notebook,14.0,8,Windows 10,1.64,1179.0,256.0,0.0,0.0,0.0,Intel,Core i5 7440HQ,2.8,Nvidia,GeForce 930MX,Full HD,1920,1080
+446,Acer,Notebook,15.6,4,Linux,2.4,441.8,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+447,Dell,Workstation,15.6,8,Windows 10,2.23,1993.0,0.0,1024.0,64.0,0.0,Intel,Xeon E3-1505M V6,3.0,Nvidia,Quadro M620,Full HD,1920,1080
+448,MSI,Gaming,15.6,8,Windows 10,2.2,1027.74,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+449,Microsoft,Ultrabook,13.5,16,Windows 10 S,1.25,2589.0,512.0,0.0,0.0,0.0,Intel,Core i7 7660U,2.5,Intel,Iris Plus Graphics 640,Touchscreen,2256,1504
+450,HP,Notebook,15.6,8,Windows 10,1.91,589.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+451,Dell,Workstation,15.6,16,Windows 10,2.17,1975.0,256.0,0.0,0.0,0.0,Intel,Core i7 6820HQ,2.7,Nvidia,Quadro M620,IPS Panel Full HD,1920,1080
+452,HP,Workstation,15.6,8,Windows 10,2.31,1534.0,512.0,0.0,0.0,0.0,Intel,Core i7 7820HQ,2.9,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+453,Lenovo,Notebook,14.0,8,Windows 10,1.65,1345.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+454,Dell,Notebook,15.6,8,Windows 10,2.36,979.0,128.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+455,Dell,2 in 1 Convertible,11.6,4,Windows 10,1.47,479.0,0.0,500.0,0.0,0.0,Intel,Pentium Quad Core N3710,1.6,Intel,HD Graphics 405,Touchscreen,1366,768
+456,Dell,Notebook,17.3,8,Windows 10,4.42,2046.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.7,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+457,Microsoft,Ultrabook,13.5,4,Windows 10 S,1.252,989.0,128.0,0.0,0.0,0.0,Intel,Core M m3-7Y30,2.2,Intel,HD Graphics 615,Touchscreen,2256,1504
+458,Microsoft,Ultrabook,13.5,8,Windows 10 S,1.25,1799.0,256.0,0.0,0.0,0.0,Intel,Core i7 7660U,2.5,Intel,Iris Plus Graphics 640,Touchscreen,2256,1504
+459,HP,Notebook,17.3,8,Windows 10,2.5,639.9,256.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1600,900
+460,Acer,Notebook,15.6,4,Windows 10,2.23,544.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Nvidia,GeForce 940MX,Full HD,1920,1080
+461,Acer,Netbook,11.6,4,Windows 10,1.4,435.0,128.0,0.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+462,Asus,Notebook,15.6,8,Windows 10,2.37,749.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+463,Lenovo,Notebook,14.0,8,No OS,1.5,799.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R7 M460,IPS Panel Full HD,1920,1080
+464,Lenovo,Notebook,15.6,8,Windows 10,2.67,2090.0,256.0,0.0,0.0,0.0,Intel,Core i7 7820HQ,2.9,Nvidia,Quadro M2200M,Full HD,1920,1080
+465,Asus,Notebook,15.6,4,Windows 10,2.0,304.0,0.0,500.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 500,Unknown,1366,768
+466,Acer,Notebook,15.6,4,Windows 10,2.2,469.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Nvidia,GeForce GTX 940MX,Unknown,1366,768
+467,Dell,Notebook,15.6,8,Windows 10,2.02,759.0,0.0,2048.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,Full HD,1920,1080
+468,HP,Gaming,17.3,12,Windows 10,3.78,1699.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+469,Lenovo,Ultrabook,14.0,12,Windows 10,1.4,1858.0,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,IPS Panel Quad HD+,2560,1440
+470,HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,1999.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+471,HP,Notebook,15.6,8,Windows 10,1.9,1154.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,FirePro W4190M ,Full HD,1920,1080
+472,Google,Ultrabook,12.3,8,Chrome OS,1.1,1275.0,128.0,0.0,0.0,0.0,Intel,Core i5 7Y57,1.2,Intel,HD Graphics 615,Touchscreen,2400,1600
+473,Dell,Ultrabook,13.3,8,Windows 10,1.42,1841.85,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD / Touchscreen,1920,1080
+474,Asus,Notebook,15.6,12,Windows 10,2.06,1299.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Intel,HD Graphics 530,IPS Panel 4K Ultra HD,3840,2160
+475,Dell,Notebook,14.0,8,Windows 10,1.79,740.0,128.0,0.0,0.0,0.0,Intel,Core i3 6100U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+476,Dell,Workstation,15.6,8,Windows 10,1.78,2408.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,Quadro M1200,Full HD,1920,1080
+477,Lenovo,Notebook,14.0,8,Windows 10,1.7,1364.0,180.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+478,Dell,Notebook,15.6,8,Windows 10,2.2,675.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 520,Full HD,1920,1080
+479,Toshiba,Notebook,13.3,8,Windows 10,1.05,1672.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+480,Dell,Notebook,15.6,8,Windows 10,2.16,1262.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+481,Dell,Notebook,15.6,4,Windows 10,2.18,586.6,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+482,HP,Notebook,13.3,4,Windows 10,1.49,726.0,128.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+483,Chuwi,Notebook,15.6,4,Windows 10,1.89,248.9,0.0,0.0,64.0,0.0,Intel,Atom x5-Z8350,1.44,Intel,HD Graphics,Full HD,1920,1080
+484,Lenovo,Notebook,15.6,4,Windows 10,2.3,565.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+485,Lenovo,Notebook,14.0,8,Windows 10,1.75,1049.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD,1920,1080
+486,Dell,Workstation,15.6,16,Windows 10,2.17,2338.0,512.0,0.0,0.0,0.0,Intel,Core i7 6820HQ,2.7,Nvidia,Quadro M620,IPS Panel Full HD,1920,1080
+487,Dell,Notebook,15.6,16,Windows 10,2.06,1899.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+488,Lenovo,Ultrabook,12.5,16,Windows 10,1.36,1798.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+489,Asus,Ultrabook,12.5,16,Windows 10,0.91,1950.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+490,Lenovo,Notebook,15.6,8,Windows 10,2.3,1011.99,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+491,Toshiba,Ultrabook,13.3,32,Windows 10,1.05,2799.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+492,Asus,Gaming,15.6,8,Windows 10,1.99,1350.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+493,Acer,Notebook,15.6,8,Windows 10,2.2,579.0,0.0,1024.0,0.0,0.0,AMD,A10-Series 9620P,2.5,AMD,Radeon RX 540,Unknown,1366,768
+494,Asus,Gaming,17.3,24,Windows 10,4.33,1269.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 965M,IPS Panel Full HD / Touchscreen,1920,1080
+495,Lenovo,Ultrabook,12.5,8,Windows 10,1.3,1099.0,180.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,IPS Panel,1366,768
+496,Lenovo,Notebook,15.6,8,Windows 10,2.17,898.9,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+497,HP,Notebook,14.0,8,Windows 10,1.48,1749.0,1024.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Intel,HD Graphics 620,Full HD,1920,1080
+498,Lenovo,Notebook,13.3,8,Windows 10,1.4,949.0,256.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+499,Lenovo,Notebook,15.6,8,Windows 10,2.3,911.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+500,Asus,Netbook,11.6,4,Windows 10 S,1.2,340.0,0.0,0.0,64.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+501,HP,Notebook,15.6,8,Windows 10,1.91,618.99,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon 520,Unknown,1366,768
+502,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.4,1599.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+503,Lenovo,Notebook,14.0,4,Windows 10,2.1,299.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+504,Lenovo,Netbook,11.6,4,Chrome OS,1.25,265.0,16.0,0.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+505,Lenovo,Notebook,13.3,8,Windows 10,1.44,949.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+506,Asus,Notebook,15.6,8,Windows 10,2.0,1224.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+507,Acer,Notebook,15.6,4,Windows 10,2.2,613.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Nvidia,GeForce MX150,IPS Panel Full HD,1920,1080
+508,HP,Ultrabook,13.3,8,Windows 10,1.34,1323.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+509,Lenovo,Gaming,15.6,8,No OS,2.4,1149.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+510,Dell,Ultrabook,13.3,8,Windows 10,1.29,899.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+511,Acer,Notebook,15.6,4,Windows 10,2.2,639.0,0.0,500.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+512,Dell,Notebook,15.6,8,Windows 10,2.18,836.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+513,Dell,Notebook,15.6,16,Windows 10,2.2,1219.24,256.0,2048.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+514,Xiaomi,Notebook,15.6,16,No OS,1.95,1399.95,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Nvidia,GeForce MX150,IPS Panel Full HD,1920,1080
+515,Asus,Netbook,11.6,2,Windows 10,1.1,245.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+516,HP,Notebook,15.6,4,Windows 10,2.04,521.47,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Touchscreen,1366,768
+517,Asus,Gaming,15.6,24,Windows 10,2.24,2968.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX1080,Full HD,1920,1080
+518,HP,Notebook,15.6,8,Windows 10,2.04,889.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 930MX,Full HD,1920,1080
+519,Asus,Gaming,17.3,16,Windows 10,3.0,1504.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX1050 Ti,Full HD,1920,1080
+520,Lenovo,Gaming,15.6,8,Windows 10,3.2,1399.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+521,HP,Ultrabook,13.3,8,Windows 10,1.32,1399.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+522,Dell,Notebook,14.0,8,Windows 10,1.64,1279.73,256.0,0.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Full HD,1920,1080
+523,HP,Notebook,15.6,4,Windows 10,1.63,689.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+524,Dell,Notebook,17.3,8,Linux,2.8,889.0,128.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,IPS Panel Full HD,1920,1080
+525,Lenovo,Notebook,14.0,8,Windows 7,2.02,1340.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+526,Lenovo,Notebook,15.6,4,Windows 10,2.2,799.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 920MX,Full HD,1920,1080
+527,Lenovo,Notebook,15.6,8,No OS,2.2,459.0,0.0,2048.0,0.0,0.0,Intel,Core i3 6006U,2.0,Nvidia,GeForce 920MX ,Unknown,1366,768
+528,Dell,Notebook,15.6,4,Windows 10,2.3,585.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R5 M430,Full HD,1920,1080
+529,Dell,Notebook,15.6,8,Windows 10,1.9,1377.0,256.0,0.0,0.0,0.0,Intel,Core i5 7440HQ,2.8,Intel,HD Graphics 620,Full HD,1920,1080
+530,Dell,Gaming,17.3,16,Windows 10,4.42,3012.77,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,IPS Panel Full HD,1920,1080
+531,Toshiba,Notebook,15.6,8,Windows 10,2.0,860.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+532,Asus,Notebook,15.6,8,Windows 10,2.0,1299.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce GTX 960M,IPS Panel 4K Ultra HD,3840,2160
+533,Mediacom,Notebook,13.3,4,Windows 10,1.2,369.0,32.0,0.0,0.0,0.0,Intel,Celeron Quad Core N3450,1.1,Intel,HD Graphics 500,IPS Panel Full HD,1920,1080
+534,Asus,Gaming,15.6,8,Windows 10,2.3,1649.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+535,Dell,Notebook,15.6,8,Windows 10,1.93,1369.0,256.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Nvidia,GeForce 930MX,Full HD,1920,1080
+536,Dell,Notebook,15.6,8,Windows 10,2.2,797.41,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,Full HD,1920,1080
+537,HP,Notebook,15.6,4,Windows 10,1.86,398.99,256.0,0.0,0.0,0.0,Intel,Pentium Quad Core N3710,1.6,Intel,HD Graphics 405,Full HD,1920,1080
+538,HP,Gaming,17.3,12,Windows 10,2.62,1799.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+539,Lenovo,Notebook,14.0,8,Windows 10,1.87,859.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+540,Dell,Ultrabook,13.3,8,Windows 10,1.2,1399.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Quad HD+ / Touchscreen,3200,1800
+541,Dell,Notebook,14.0,4,Windows 10,1.6,735.87,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+542,HP,Ultrabook,13.3,8,Windows 10,1.34,1145.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Quad HD+,3200,1800
+543,Acer,Gaming,15.6,8,Linux,2.4,798.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+544,Asus,Notebook,15.6,4,Windows 10,2.0,349.0,0.0,500.0,0.0,0.0,AMD,E-Series 7110,1.8,AMD,Radeon R2 Graphics,Unknown,1366,768
+545,HP,Notebook,15.6,4,Windows 10,2.1,705.5,128.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Full HD,1920,1080
+546,Lenovo,Notebook,14.0,4,Windows 10,1.87,785.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+547,Lenovo,Notebook,15.6,4,No OS,2.15,462.35,0.0,1024.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+548,HP,Notebook,15.6,4,Windows 10,1.86,397.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+549,Lenovo,Notebook,15.6,8,Windows 10,1.99,1729.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+550,Lenovo,Notebook,15.6,4,Windows 10,2.2,499.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+551,Dell,Notebook,15.6,8,Windows 10,1.9,1116.99,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+552,Dell,Gaming,17.3,16,Windows 10,4.42,2699.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,IPS Panel Full HD,1920,1080
+553,HP,Notebook,17.3,8,Windows 10,2.65,544.15,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1600,900
+554,HP,Notebook,17.3,8,Windows 10,2.63,1280.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 930MX,Full HD,1920,1080
+555,Asus,Notebook,15.6,4,Linux,2.0,224.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+556,Mediacom,Notebook,13.3,4,Windows 10,1.35,255.0,0.0,0.0,32.0,0.0,Intel,Atom x5-Z8350,1.44,Intel,HD Graphics,IPS Panel Full HD,1920,1080
+557,Lenovo,Notebook,17.3,6,Windows 10,2.8,949.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Unknown,1600,900
+558,HP,Notebook,15.6,6,Windows 10,1.91,568.9,128.0,0.0,0.0,0.0,AMD,A10-Series A10-9620P,2.5,AMD,Radeon 530,IPS Panel Full HD,1920,1080
+559,Dell,Notebook,15.6,4,Windows 10,2.18,617.9,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M420,Unknown,1366,768
+560,Acer,2 in 1 Convertible,11.6,4,Windows 10,1.25,349.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,2.0,Intel,HD Graphics 500,IPS Panel Full HD / Touchscreen,1920,1080
+561,Lenovo,Notebook,15.6,4,Windows 10,2.05,630.0,128.0,0.0,0.0,0.0,Intel,Core i3 7130U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+562,HP,Ultrabook,13.3,16,Windows 10,1.16,1965.0,512.0,0.0,0.0,0.0,Intel,Core M 6Y75,1.2,Intel,HD Graphics 515,IPS Panel Quad HD+ / Touchscreen,3200,1800
+563,Lenovo,Notebook,17.3,8,Windows 10,3.4,2999.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,Quadro M620M,IPS Panel Full HD,1920,1080
+564,Asus,Notebook,15.6,8,Windows 10,2.5,839.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+565,Dell,Ultrabook,13.3,8,Windows 10,1.21,1599.0,128.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+566,Dell,Notebook,15.6,4,Windows 10,1.93,959.0,0.0,500.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Unknown,1366,768
+567,Fujitsu,Notebook,15.6,8,Windows 10,2.2,739.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+568,Lenovo,Notebook,15.6,4,Windows 10,2.2,344.0,0.0,500.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Full HD,1920,1080
+569,Lenovo,Notebook,14.0,4,Windows 10,2.02,990.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+570,HP,Workstation,17.3,8,Windows 10,3.14,1860.99,0.0,500.0,0.0,0.0,Intel,Core i5 7440HQ,2.8,Nvidia,Quadro M1200,Unknown,1600,900
+571,HP,Notebook,14.0,8,Windows 10,1.94,389.0,0.0,2048.0,0.0,0.0,Intel,Pentium Quad Core N3710,1.6,Intel,HD Graphics 405,Unknown,1366,768
+572,HP,Notebook,15.6,6,Windows 10,1.95,649.0,256.0,0.0,0.0,0.0,AMD,A9-Series A9-9420,3.0,AMD,Radeon 530,IPS Panel Full HD,1920,1080
+573,Lenovo,Notebook,15.6,8,Windows 10,2.3,830.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+574,Lenovo,Notebook,15.6,4,Windows 10,2.05,685.0,0.0,500.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,HD Graphics 620,Full HD,1920,1080
+575,Mediacom,Notebook,14.0,4,Windows 10,1.4,249.0,32.0,0.0,0.0,0.0,Intel,Atom x5-Z8350,1.44,Intel,HD Graphics,Full HD,1920,1080
+576,Toshiba,Ultrabook,14.0,16,Windows 10,1.24,1865.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+577,Lenovo,Gaming,17.3,32,Windows 10,4.6,2663.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6820HK,2.7,Nvidia,GeForce GTX 1070,IPS Panel Full HD,1920,1080
+578,MSI,Gaming,17.3,16,Windows 10,4.14,2729.0,512.0,1024.0,0.0,0.0,Intel,Core i7 7820HK,2.9,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+579,Dell,Notebook,15.6,8,Linux,2.2,749.01,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R5 M430,Full HD,1920,1080
+580,Mediacom,Notebook,14.0,4,Windows 10,1.45,389.0,32.0,0.0,0.0,0.0,Intel,Celeron Quad Core N3450,1.1,Intel,HD Graphics 500,IPS Panel Full HD,1920,1080
+581,Dell,Notebook,15.6,8,Windows 10,1.9,1008.52,0.0,500.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Unknown,1366,768
+582,HP,Notebook,13.3,4,Windows 10,1.49,719.0,128.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Full HD,1920,1080
+583,Dell,Notebook,15.6,16,Windows 10,1.93,1537.39,256.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Nvidia,GeForce 930MX,Full HD,1920,1080
+584,Dell,Netbook,11.6,4,Chrome OS,1.26,295.0,0.0,0.0,16.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+585,MSI,Gaming,17.3,16,Windows 10,4.5,2349.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6820HK,2.7,Nvidia,GeForce GTX 980M,Full HD,1920,1080
+586,HP,Gaming,17.3,16,Windows 10,3.78,1498.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+587,Lenovo,Ultrabook,14.0,12,Windows 10,1.4,1673.0,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,IPS Panel Full HD,1920,1080
+588,Lenovo,Notebook,15.6,12,Windows 10,2.2,609.0,0.0,1024.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,HD Graphics 620,Touchscreen,1366,768
+589,Asus,Gaming,17.3,8,Windows 10,2.73,1770.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+590,Asus,2 in 1 Convertible,15.6,8,Windows 10,2.2,739.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 520,Touchscreen,1366,768
+591,Lenovo,Notebook,15.6,12,Windows 10,2.2,949.0,512.0,0.0,0.0,0.0,AMD,A12-Series 9720P,3.6,AMD,Radeon 530,Full HD,1920,1080
+592,Dell,2 in 1 Convertible,11.6,4,Windows 10,1.39,603.0,128.0,0.0,0.0,0.0,Intel,Core M 7Y30,1.0,Intel,HD Graphics 615,Touchscreen,1366,768
+593,Samsung,Notebook,15.6,16,Windows 10,2.5,1699.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+594,Lenovo,Notebook,17.3,4,No OS,2.8,529.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+595,Lenovo,Notebook,15.6,8,Windows 10,2.29,459.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6100U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+596,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,2025.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+597,Lenovo,Notebook,14.0,8,Windows 10,1.7,1474.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Intel,HD Graphics 630,IPS Panel Full HD,1920,1080
+598,Dell,2 in 1 Convertible,12.5,8,Windows 10,1.34,1670.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+599,Dell,Workstation,15.6,8,Windows 10,2.06,1763.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,Quadro M620,Full HD / Touchscreen,1920,1080
+600,HP,Notebook,15.6,8,Windows 10,1.84,1219.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+601,HP,Notebook,15.6,4,Windows 10,2.1,668.48,0.0,500.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+602,Acer,Notebook,14.0,4,Windows 10,1.6,329.0,0.0,0.0,32.0,0.0,Intel,Celeron Quad Core N3450,1.1,Intel,HD Graphics 500,Full HD,1920,1080
+603,MSI,Gaming,17.3,16,Windows 10,4.14,2199.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6820HK,2.7,Nvidia,GeForce GTX 970M,Full HD,1920,1080
+604,Dell,Notebook,15.6,4,Linux,2.18,465.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M420,Unknown,1366,768
+605,MSI,Gaming,15.6,16,Windows 10,1.8,2299.0,256.0,2048.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,4K Ultra HD,3840,2160
+606,Toshiba,Notebook,15.6,8,Windows 10,2.2,1399.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Full HD,1920,1080
+607,Lenovo,Notebook,15.6,6,Windows 10,2.4,564.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+608,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,1299.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Intel,HD Graphics 630,IPS Panel Full HD / Touchscreen,1920,1080
+609,Acer,Notebook,14.0,4,Windows 10,1.6,349.0,0.0,0.0,128.0,0.0,Intel,Pentium Quad Core N3710,1.6,Intel,HD Graphics 405,Unknown,1366,768
+610,Lenovo,Notebook,15.6,32,Windows 10,2.5,4899.0,1024.0,0.0,0.0,0.0,Intel,Xeon E3-1535M v6,3.1,Nvidia,Quadro M2200M,IPS Panel 4K Ultra HD,3840,2160
+611,Dell,Gaming,15.6,16,Windows 10,2.59,879.01,0.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960<U+039C>,Full HD,1920,1080
+612,Dell,Notebook,15.6,4,Linux,2.18,443.9,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+613,Dell,Notebook,15.6,4,Linux,2.25,359.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+614,Dell,Notebook,15.6,4,Linux,1.93,869.0,0.0,500.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Unknown,1366,768
+615,Asus,Gaming,17.3,8,Windows 10,3.0,1168.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+616,Dell,Notebook,15.6,4,Linux,2.18,569.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R5 M420,Full HD,1920,1080
+617,HP,Ultrabook,15.6,8,Windows 10,1.84,1389.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+618,MSI,Gaming,15.6,16,Windows 10,2.94,2267.86,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+619,Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.25,379.0,0.0,0.0,32.0,0.0,Intel,Celeron Quad Core N3160,1.6,Intel,HD Graphics 400,IPS Panel Touchscreen,1366,768
+620,HP,Notebook,14.0,8,Windows 10,2.31,1124.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Unknown,1366,768
+621,Lenovo,Notebook,14.0,8,Windows 7,1.65,1465.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+622,Dell,Notebook,15.6,4,Windows 10,2.2,776.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,Full HD,1920,1080
+623,Fujitsu,Notebook,15.6,8,Windows 10,2.2,799.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+624,HP,Notebook,15.6,4,Windows 7,1.88,932.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+625,Lenovo,Notebook,15.6,8,Windows 10,2.2,899.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 920MX,Full HD,1920,1080
+626,Mediacom,Notebook,14.0,2,Windows 10,1.4,239.0,0.0,0.0,32.0,0.0,Intel,Atom x5-Z8350,1.44,Intel,HD Graphics,Full HD,1920,1080
+627,Lenovo,Notebook,15.6,4,No OS,2.2,468.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+628,Asus,2 in 1 Convertible,13.3,6,Windows 10,1.5,639.01,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+629,Dell,Notebook,15.6,8,Windows 10,2.0,1820.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+630,Asus,Ultrabook,14.0,16,Windows 10,1.1,1900.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+631,Dell,Gaming,15.6,16,Windows 10,2.62,1479.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+632,Lenovo,Notebook,15.6,4,Windows 10,1.8,829.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+633,Lenovo,Notebook,15.6,4,Windows 10,2.2,579.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Nvidia,GeForce 920MX ,Full HD,1920,1080
+634,Asus,Notebook,15.6,8,Windows 10,2.0,399.0,0.0,1024.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+635,Asus,Notebook,15.6,8,Windows 10,1.99,906.62,0.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+636,Dell,Ultrabook,13.3,8,Windows 10,1.23,1869.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Quad HD+ / Touchscreen,3200,1800
+637,Lenovo,Notebook,14.0,2,Windows 10,1.42,249.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+638,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1757.42,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+639,Dell,Notebook,15.6,16,Windows 10,2.06,2399.0,1024.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,4K Ultra HD / Touchscreen,3840,2160
+640,Lenovo,Gaming,15.6,8,Windows 10,2.5,1109.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050M,IPS Panel Full HD,1920,1080
+641,HP,Notebook,17.0,8,Windows 10,2.6,520.9,0.0,1024.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon R5,Unknown,1600,900
+642,Lenovo,Ultrabook,14.0,16,Windows 10,1.14,2450.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+643,Asus,Gaming,15.6,8,No OS,2.5,1169.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,IPS Panel Full HD,1920,1080
+644,Acer,Notebook,15.6,4,Windows 10,2.4,450.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+645,Lenovo,Notebook,14.0,4,Windows 10,1.43,274.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics,Unknown,1366,768
+646,Acer,Ultrabook,14.0,8,Windows 10,1.8,919.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,Graphics 620,IPS Panel Full HD,1920,1080
+647,Razer,Gaming,14.0,16,Windows 10,1.95,2599.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+648,Toshiba,Notebook,13.3,8,Windows 10,1.2,1213.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+649,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1584.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+650,Asus,Gaming,17.3,32,Windows 10,3.8,2799.0,512.0,0.0,0.0,0.0,Intel,Core i7 6820HK,2.7,Nvidia,GeForce GTX 1080,IPS Panel Full HD,1920,1080
+651,Acer,Gaming,15.6,8,Linux,2.4,709.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+652,Dell,Ultrabook,13.3,8,Windows 10,1.2,1449.9,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD,1920,1080
+653,MSI,Gaming,15.6,8,Windows 10,2.2,1191.8,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+654,HP,Notebook,15.6,4,No OS,1.86,364.9,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+655,Toshiba,Notebook,15.6,8,Windows 10,2.0,1064.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+656,Dell,Notebook,15.6,8,Windows 10,2.2,919.0,256.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+657,Dell,Notebook,15.6,16,Windows 10,2.2,1135.0,256.0,2048.0,0.0,0.0,Intel,Core i7 8550U,1.8,AMD,Radeon 530,Full HD,1920,1080
+658,Lenovo,Gaming,15.6,8,Windows 10,3.31,1196.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960,IPS Panel Full HD,1920,1080
+659,Dell,Gaming,17.3,32,Windows 10,4.42,3147.37,512.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,IPS Panel 4K Ultra HD,3840,2160
+660,Dell,Notebook,14.0,8,Windows 10,1.56,1229.0,256.0,0.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Full HD,1920,1080
+661,Lenovo,Notebook,15.6,4,Windows 10,2.2,419.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+662,Lenovo,Notebook,15.6,4,Windows 10,2.2,535.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+663,HP,Notebook,15.6,6,Windows 10,2.04,539.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M430,Unknown,1920,1080
+664,MSI,Gaming,17.3,8,Windows 10,2.7,1486.77,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+665,Toshiba,Notebook,15.6,4,Windows 10,2.1,498.0,128.0,0.0,0.0,0.0,Intel,Core i3 6100U,2.1,Intel,HD Graphics 520,Unknown,1366,768
+666,Dell,Notebook,15.6,8,Windows 10,2.06,955.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+667,HP,Notebook,15.6,8,Windows 10,2.1,745.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon 530,Full HD,1920,1080
+668,Toshiba,Notebook,15.6,8,Windows 10,2.0,1258.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+669,Acer,Notebook,15.6,4,Linux,2.1,412.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+670,Microsoft,Ultrabook,13.5,8,Windows 10 S,1.252,1867.85,256.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Intel,Iris Plus Graphics 640,Touchscreen,2256,1504
+671,Lenovo,Notebook,15.6,8,Windows 10,1.9,817.95,128.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R5 M430,Full HD,1920,1080
+672,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,1034.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+673,Lenovo,Notebook,15.6,4,Windows 10,2.2,349.0,128.0,0.0,0.0,0.0,AMD,E-Series E2-9000,2.2,AMD,Radeon R2 Graphics,Unknown,1366,768
+674,HP,2 in 1 Convertible,14.0,4,Windows 10,1.63,699.0,128.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Nvidia,GeForce 940MX,IPS Panel Full HD / Touchscreen,1920,1080
+675,MSI,Gaming,15.6,16,Windows 10,2.4,1294.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+676,Asus,Ultrabook,14.0,8,Windows 10,1.1,1135.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+677,HP,2 in 1 Convertible,11.6,8,Chrome OS,1.4,495.0,0.0,0.0,64.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Touchscreen,1366,768
+678,LG,Ultrabook,15.6,8,Windows 10,1.09,2299.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+679,Acer,Gaming,15.6,16,Windows 10,2.5,1299.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+680,MSI,Gaming,15.6,8,Windows 10,2.2,997.9,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+681,Asus,Notebook,15.6,4,Windows 10,1.86,419.0,128.0,0.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+682,Dell,Gaming,15.6,16,Windows 10,3.21,2051.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+683,HP,Notebook,17.3,4,Windows 10,2.5,699.0,256.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 520,IPS Panel Full HD,1920,1080
+684,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.19,1499.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+685,Dell,Gaming,15.6,16,Windows 10,3.49,2813.75,256.0,1024.0,0.0,0.0,Intel,Core i7 7820HK,2.9,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+686,HP,Notebook,15.6,4,Windows 10,1.86,612.61,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon 520,Unknown,1366,768
+687,Dell,Notebook,15.6,4,Windows 10,2.2,545.67,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M430,Unknown,1366,768
+688,HP,Notebook,17.3,6,Windows 10,2.65,569.0,0.0,2048.0,0.0,0.0,AMD,A10-Series 9600P,2.4,AMD,Radeon R7 M440,IPS Panel Full HD,1920,1080
+689,Lenovo,Notebook,15.6,4,Windows 10,2.1,318.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core 3855U,1.6,Intel,HD Graphics 510,Unknown,1366,768
+690,Acer,Notebook,14.0,4,Chrome OS,1.45,375.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core 3855U,1.6,Intel,HD Graphics 510,Unknown,1366,768
+691,Lenovo,Notebook,14.0,4,Windows 10,1.7,699.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+692,HP,Workstation,17.3,8,Windows 10,3.14,1907.99,0.0,500.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,Quadro M1200,Full HD,1920,1080
+693,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.42,2590.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Touchscreen,2560,1440
+694,Toshiba,Notebook,13.3,8,Windows 10,1.5,973.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+695,Acer,Netbook,11.6,4,Windows 10,1.4,269.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
+696,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.38,1749.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+697,Asus,2 in 1 Convertible,12.5,4,Chrome OS,1.2,669.0,0.0,0.0,64.0,0.0,Intel,Core M M3-6Y30,0.9,Intel,HD Graphics 515,Full HD / Touchscreen,1920,1080
+698,Toshiba,Ultrabook,13.3,16,Windows 10,1.36,1877.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD / Touchscreen,1920,1080
+699,HP,Notebook,15.6,4,Windows 10,2.1,689.0,0.0,500.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon 530,IPS Panel Full HD,1920,1080
+700,Dell,Gaming,15.6,8,Windows 10,2.56,819.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+701,Lenovo,Notebook,15.6,4,Windows 10,2.2,399.0,256.0,0.0,0.0,0.0,AMD,A9-Series 9420,2.9,AMD,Radeon 530,Full HD,1920,1080
+702,Lenovo,Notebook,15.6,8,Windows 10,2.2,429.0,0.0,1024.0,0.0,0.0,AMD,A12-Series 9720P,3.6,AMD,Radeon R7,Unknown,1366,768
+703,Lenovo,Notebook,15.6,4,Windows 10,2.1,621.45,0.0,2048.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+704,Lenovo,Notebook,15.6,4,No OS,1.9,450.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+705,Dell,Notebook,15.6,8,Windows 10,2.18,795.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+706,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,999.0,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+707,Lenovo,Workstation,15.6,16,Windows 7,2.18,1855.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Nvidia,Quadro M520M,Full HD,1920,1080
+708,Lenovo,Notebook,14.0,8,Windows 10,1.8,1191.0,256.0,0.0,0.0,0.0,Intel,Core i5 6300HQ,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+709,HP,Notebook,17.3,6,Windows 10,2.71,655.01,0.0,2048.0,0.0,0.0,AMD,A10-Series 9620P,2.5,AMD,Radeon 530,IPS Panel Full HD,1920,1080
+710,Lenovo,Gaming,15.6,8,Windows 10,2.5,1249.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,IPS Panel Full HD,1920,1080
+711,Dell,Notebook,14.0,8,Linux,1.64,1089.0,256.0,0.0,0.0,0.0,Intel,Core i5 7440HQ,2.8,Nvidia,GeForce 930MX,Full HD,1920,1080
+712,Dell,Notebook,15.6,8,Linux,1.98,726.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+713,Asus,Notebook,14.0,4,Windows 10,1.5,298.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Full HD,1920,1080
+714,Dell,Notebook,15.6,16,Windows 10,1.93,1426.66,512.0,0.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Full HD,1920,1080
+715,Lenovo,Notebook,14.0,8,Windows 10,1.87,857.07,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 920MX,IPS Panel Full HD,1920,1080
+716,Dell,Notebook,15.6,8,Windows 10,1.9,1179.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Full HD,1920,1080
+717,Lenovo,Notebook,15.6,4,Windows 10,2.19,298.0,0.0,500.0,0.0,0.0,AMD,A6-Series 7310,2.0,AMD,Radeon R4,Unknown,1366,768
+718,Mediacom,Notebook,14.0,4,Windows 10,1.4,265.0,0.0,32.0,0.0,0.0,Intel,Atom Z8350,1.92,Intel,HD Graphics 400,IPS Panel Full HD,1920,1200
+719,HP,Notebook,17.3,8,Windows 10,2.63,1200.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 930MX,Full HD,1920,1080
+720,Lenovo,Ultrabook,14.0,8,Windows 10,1.17,1686.64,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Quad HD+,2560,1440
+721,HP,2 in 1 Convertible,13.3,8,Windows 10,1.58,836.6,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Touchscreen,1366,768
+722,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1499.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+723,Dell,Gaming,17.3,32,Windows 10,4.36,3659.4,1024.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,4K Ultra HD,3840,2160
+724,MSI,Gaming,17.3,8,Windows 10,2.7,1348.48,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+725,Lenovo,Notebook,15.6,4,No OS,1.9,489.9,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+726,Dell,Notebook,15.6,8,Windows 10,2.2,719.0,128.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,Full HD,1920,1080
+727,Dell,2 in 1 Convertible,13.3,4,Windows 10,1.71,649.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+728,Dell,Notebook,15.6,8,Linux,2.32,589.52,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R7 M445,Unknown,1366,768
+729,HP,Notebook,15.6,4,Windows 10,2.1,489.0,0.0,1024.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon 520,Full HD,1920,1080
+730,Acer,Gaming,17.3,16,Windows 10,4.2,1935.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+731,Dell,Notebook,15.6,12,Windows 10,2.25,649.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+732,HP,Notebook,15.6,6,Windows 10,2.1,650.0,128.0,1024.0,0.0,0.0,AMD,A9-Series A9-9420,3.0,AMD,Radeon 520,Full HD,1920,1080
+733,Acer,Notebook,15.6,4,Windows 10,2.4,559.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+734,Lenovo,Notebook,13.3,8,Windows 10,1.44,960.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+735,Lenovo,Notebook,15.6,4,Windows 10,1.85,779.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+736,HP,Workstation,15.6,16,Windows 10,2.6,2419.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,Quadro M2200,Full HD,1920,1080
+737,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.55,659.0,0.0,1024.0,0.0,0.0,Intel,Core i5 8250U,1.6,Intel,UHD Graphics 620,Full HD / Touchscreen,1920,1080
+738,MSI,Gaming,15.6,16,Windows 10,1.8,2094.48,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+739,Acer,Notebook,15.6,4,Windows 10,2.4,410.8,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+740,Dell,Notebook,15.6,8,Windows 10,2.0,1207.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+741,Dell,Notebook,15.6,8,Windows 10,2.0,665.0,256.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+742,Toshiba,Notebook,14.0,8,Windows 10,1.25,1535.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+743,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.7,999.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+744,Lenovo,Workstation,15.6,16,Windows 10,2.5,3299.0,1024.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Nvidia,Quadro M520M,IPS Panel 4K Ultra HD,3840,2160
+745,Acer,Notebook,14.0,2,Chrome OS,1.68,330.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+746,Samsung,Ultrabook,13.3,16,Windows 10,0.81,1649.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+747,HP,Notebook,15.6,8,Windows 10,1.86,539.0,256.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+748,Dell,Notebook,14.0,8,Windows 10,1.6,1126.71,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+749,HP,Workstation,17.3,16,Windows 7,3.0,4389.0,256.0,0.0,0.0,0.0,Intel,Xeon E3-1535M v5,2.9,Nvidia,Quadro M2000M,IPS Panel Full HD,1920,1080
+750,Lenovo,Netbook,11.6,4,Windows 10,1.4,475.0,128.0,0.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Touchscreen,1366,768
+751,HP,Notebook,15.6,8,Windows 10,1.84,1900.0,256.0,0.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Full HD,1920,1080
+752,Asus,Notebook,15.6,4,No OS,2.45,579.0,0.0,1024.0,0.0,0.0,Intel,Core i5 6300HQ,2.3,Nvidia,GeForce GTX 950M,Unknown,1366,768
+753,Lenovo,Ultrabook,14.0,4,Windows 10,1.7,1096.0,180.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+754,Asus,Notebook,15.6,4,Windows 10,2.37,849.9,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Unknown,1366,768
+755,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,1199.0,256.0,0.0,0.0,0.0,Intel,Core i5 6260U,1.8,Intel,HD Graphics 540,IPS Panel Quad HD+ / Touchscreen,3200,1800
+756,HP,Notebook,15.6,8,Windows 10,2.2,1099.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+757,HP,Workstation,15.6,8,Windows 7,2.59,1561.0,256.0,0.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,Quadro M1000M,Full HD,1920,1080
+758,Dell,Gaming,15.6,16,Windows 10,4.42,2868.99,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,IPS Panel 4K Ultra HD,3840,2160
+759,Acer,Notebook,15.6,4,Windows 10,2.1,599.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+760,Lenovo,Gaming,15.6,8,Windows 10,2.5,1048.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+761,Dell,Ultrabook,12.5,16,Windows 10,1.18,1859.0,256.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Intel,HD Graphics 620,Full HD,1920,1080
+762,Google,Ultrabook,12.3,8,Chrome OS,1.1,1559.0,256.0,0.0,0.0,0.0,Intel,Core i5 7Y57,1.2,Intel,HD Graphics 615,Touchscreen,2400,1600
+763,Asus,Ultrabook,13.3,8,Windows 10,1.2,1129.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Quad HD+,3200,1800
+764,Dell,Notebook,13.3,4,Windows 10,1.65,849.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+765,Acer,Notebook,13.3,4,Windows 10,1.6,655.0,128.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+766,Asus,Notebook,17.3,4,Windows 10,2.8,470.34,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Nvidia,GeForce 920MX,Unknown,1366,768
+767,Dell,Gaming,15.6,16,Windows 10,2.72,1099.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,IPS Panel Touchscreen / 4K Ultra HD,3840,2160
+768,Samsung,Ultrabook,13.3,8,Windows 10,1.31,1599.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+769,Acer,Notebook,15.6,4,Linux,2.1,298.0,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Unknown,1366,768
+770,Dell,Notebook,15.6,16,Windows 10,2.3,1181.27,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R7 M445,Full HD,1920,1080
+771,Samsung,2 in 1 Convertible,15.0,16,Windows 10,1.71,1799.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon 540,Full HD / Touchscreen,1920,1080
+772,Toshiba,Notebook,14.0,4,Windows 10,1.75,1020.0,128.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,IPS Panel,1366,768
+773,Dell,Gaming,15.6,8,Windows 10,2.62,1099.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+774,HP,Ultrabook,12.5,4,Windows 10,1.26,1244.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+775,Asus,2 in 1 Convertible,15.6,12,Windows 10,2.3,839.0,0.0,2048.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD / Touchscreen,1920,1080
+776,Lenovo,Notebook,15.6,16,Windows 7,2.5,2370.0,512.0,0.0,0.0,0.0,Intel,Core i7 6820HQ,2.7,Nvidia,Quadro M2000M,4K Ultra HD,3840,2160
+777,Acer,Notebook,14.0,4,Windows 10,1.8,636.0,128.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+778,Razer,Gaming,14.0,16,Windows 10,1.95,2899.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+779,Asus,Notebook,15.6,8,Windows 10,2.0,581.9,128.0,0.0,0.0,0.0,Intel,Pentium Dual Core N4200,1.1,Intel,HD Graphics 505,Unknown,1920,1080
+780,Dell,Gaming,17.3,32,Windows 10,4.42,3588.8,1024.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070M,IPS Panel Full HD,1920,1080
+781,Asus,Gaming,17.3,16,Windows 10,4.3,2350.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1070,IPS Panel Full HD,1920,1080
+782,Toshiba,Ultrabook,14.0,16,Windows 10,1.47,1764.0,512.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Nvidia,GeForce 930M,IPS Panel Full HD,1920,1080
+783,Lenovo,Notebook,15.6,8,No OS,2.2,329.0,0.0,1024.0,0.0,0.0,Intel,Celeron Quad Core N3710,1.6,Intel,HD Graphics 405,Unknown,1366,768
+784,Lenovo,Ultrabook,14.0,16,Windows 10,1.7,2299.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+785,MSI,Gaming,14.0,16,Windows 10,1.6,1891.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+786,MSI,Gaming,15.6,8,Windows 10,2.2,1089.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+787,Lenovo,Gaming,15.6,4,Windows 10,2.4,999.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+788,Acer,Gaming,17.3,16,Windows 10,4.2,2299.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+789,Dell,Gaming,15.6,8,Windows 10,2.62,985.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+790,Asus,Gaming,15.6,8,Windows 10,2.24,1339.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX1060,Full HD,1920,1080
+791,Vero,Notebook,14.0,4,Windows 10,1.22,202.9,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1920,1080
+792,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1970.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+793,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.08,959.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R7 M460,Full HD / Touchscreen,1920,1080
+794,Apple,Ultrabook,12.0,8,Mac OS X,0.92,1165.0,0.0,0.0,512.0,0.0,Intel,Core M,1.2,Intel,HD Graphics 5300,IPS Panel Retina Display,2304,1440
+795,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.42,2330.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Touchscreen,2560,1440
+796,Asus,Notebook,14.0,4,Windows 10,1.63,299.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+797,Dell,Notebook,15.6,8,Windows 10,1.95,810.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+798,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,1349.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+799,Dell,Notebook,15.6,8,Windows 10,2.0,739.0,256.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M420X,Full HD,1920,1080
+800,HP,Workstation,15.6,8,Windows 10,3.14,2064.9,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,Quadro M2200,Full HD,1920,1080
+801,Asus,Notebook,15.6,8,Windows 10,2.37,1099.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+802,Dell,Ultrabook,13.3,8,Windows 10,1.29,1499.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+803,Dell,Notebook,15.6,8,Windows 10,2.06,1749.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,4K Ultra HD / Touchscreen,3840,2160
+804,Dell,Netbook,11.6,4,Windows 10,1.63,744.0,128.0,0.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Unknown,1366,768
+805,HP,Netbook,12.5,8,Windows 10,1.26,1389.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Unknown,1366,768
+806,Toshiba,Notebook,15.6,4,Windows 10,2.1,780.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+807,HP,Notebook,15.6,8,Windows 10,2.04,629.0,0.0,2048.0,0.0,0.0,AMD,A12-Series 9700P,2.5,AMD,Radeon R7 Graphics,Unknown,1366,768
+808,Dell,Gaming,15.6,16,Windows 10,2.62,1679.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,4K Ultra HD,3840,2160
+809,Lenovo,Notebook,15.6,4,Windows 10,2.4,609.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 920M,Full HD,1920,1080
+810,HP,Gaming,17.3,12,Windows 10,3.74,1749.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,AMD,Radeon RX 580,IPS Panel Full HD,1920,1080
+811,MSI,Gaming,17.3,16,Windows 10,2.9,2415.0,512.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+812,Samsung,Ultrabook,13.3,8,Windows 10,0.81,1499.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+813,Dell,Notebook,15.6,8,Windows 10,1.98,961.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce GT 940MX,Full HD,1920,1080
+814,Dell,Notebook,15.6,8,Windows 10,2.18,789.81,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R5 M420,Full HD,1920,1080
+815,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1859.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+816,Razer,Ultrabook,12.5,16,Windows 10,1.29,1799.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.5,Intel,HD Graphics 620,IPS Panel 4K Ultra HD / Touchscreen,3840,2160
+817,HP,Netbook,11.6,4,Chrome OS,1.23,385.0,0.0,0.0,16.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+818,Dell,Gaming,17.3,16,Windows 10,4.36,2505.02,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+819,Dell,Notebook,14.0,4,Windows 10,1.76,755.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+820,Lenovo,Notebook,15.6,4,Windows 10,2.1,489.9,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+821,Toshiba,Ultrabook,14.0,4,Windows 10,1.25,1090.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+822,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,2499.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+823,MSI,Gaming,15.6,8,Windows 10,2.4,1199.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+824,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,1875.0,0.0,0.0,256.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+825,Toshiba,Notebook,14.0,4,Windows 10,1.75,499.0,128.0,0.0,0.0,0.0,Intel,Pentium Dual Core 4405U,2.1,Intel,HD Graphics 510,Unknown,1366,768
+826,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1358.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Touchscreen / Full HD,1920,1080
+827,Dell,Notebook,14.0,4,Windows 10,1.76,585.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+828,Acer,Netbook,11.6,4,Chrome OS,1.35,355.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,IPS Panel,1366,768
+829,Acer,Notebook,14.0,8,Windows 10,1.5,619.0,128.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+830,Razer,Gaming,17.3,32,Windows 10,3.49,5499.0,512.0,0.0,0.0,0.0,Intel,Core i7 7820HK,2.9,Nvidia,GeForce GTX 1080,4K Ultra HD / Touchscreen,3840,2160
+831,Lenovo,Ultrabook,14.0,16,Windows 10,1.1,2099.0,512.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,IPS Panel Quad HD+,2560,1440
+832,Asus,Notebook,15.6,4,Linux,2.1,519.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 920,Full HD,1920,1080
+833,Lenovo,Notebook,14.0,8,Windows 10,1.7,1186.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+834,Lenovo,Notebook,14.0,8,Windows 10,1.32,1650.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+835,Dell,Gaming,15.6,16,Windows 10,3.21,2774.63,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+836,Asus,Gaming,17.3,16,Windows 10,2.9,2419.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+837,Toshiba,Notebook,15.6,4,Windows 10,2.0,669.0,0.0,500.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+838,Lenovo,Notebook,14.0,4,Chrome OS,1.5,325.0,0.0,0.0,16.0,0.0,Intel,Celeron Quad Core N3160,1.6,Intel,HD Graphics 400,Unknown,1366,768
+839,Asus,Notebook,15.6,8,Windows 10,2.3,590.0,0.0,128.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+840,Asus,Gaming,17.3,16,Windows 10,2.73,1799.0,512.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+841,Dell,Gaming,17.3,32,Windows 10,4.42,3072.89,512.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,IPS Panel Full HD,1920,1080
+842,HP,Notebook,17.3,8,Windows 10,2.63,910.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 930MX,Unknown,1600,900
+843,Dell,Notebook,15.6,8,Windows 10,2.18,713.99,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+844,HP,Ultrabook,14.0,8,Windows 7,1.54,1870.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+845,Dell,Notebook,15.6,4,Windows 10,2.18,739.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R5 M420,Full HD,1920,1080
+846,HP,2 in 1 Convertible,11.6,4,Chrome OS,1.4,615.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Touchscreen,1366,768
+847,Asus,Ultrabook,13.3,8,Windows 10,1.45,1026.0,512.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Nvidia,GeForce 940M,IPS Panel Full HD,1920,1080
+848,HP,2 in 1 Convertible,13.3,8,Windows 10,1.28,2277.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+849,HP,Ultrabook,14.0,8,Windows 10,1.54,1468.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+850,HP,Notebook,15.6,4,No OS,1.86,299.0,128.0,0.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+851,Asus,Gaming,15.6,16,Windows 10,2.1,1899.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+852,Dell,Notebook,17.3,8,Linux,2.83,865.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R7 M445,Full HD,1920,1080
+853,Lenovo,Ultrabook,14.0,8,Windows 10,1.96,1903.0,256.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GT 940MX,IPS Panel Full HD,1920,1080
+854,Asus,Notebook,15.6,8,Windows 10,2.3,787.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce GTX 930MX,IPS Panel Full HD,1920,1080
+855,Dell,Notebook,15.6,8,Windows 10,1.9,945.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+856,Asus,Notebook,15.6,4,Windows 10,2.0,449.0,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Unknown,1366,768
+857,HP,2 in 1 Convertible,13.3,8,Windows 10,1.28,2559.0,256.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+858,Dell,Notebook,13.3,8,Windows 10,1.62,649.0,0.0,1024.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD / Touchscreen,1920,1080
+859,Lenovo,Notebook,15.6,4,No OS,2.2,469.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+860,Lenovo,Notebook,15.6,8,Windows 10,2.3,850.66,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+861,HP,Notebook,15.6,8,Windows 10,1.84,1349.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300U,2.6,AMD,Radeon R7 M465,Full HD,1920,1080
+862,Toshiba,Notebook,13.3,4,Windows 10,1.05,1285.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+863,Lenovo,Gaming,15.6,8,No OS,2.5,1017.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+864,Dell,Ultrabook,13.3,16,Windows 10,1.29,2240.0,512.0,0.0,0.0,0.0,Intel,Core i7 7660U,2.5,Intel,Iris Plus Graphics 640,Quad HD+ / Touchscreen,3200,1800
+865,HP,Notebook,15.6,4,Windows 10,2.07,910.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+866,Toshiba,Ultrabook,13.3,8,Windows 10,1.2,1095.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+867,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1950.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+868,Acer,Notebook,14.0,8,Windows 10,1.56,902.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+869,Dell,Workstation,15.6,8,Windows 10,2.23,1778.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,Quadro M620,Full HD,1920,1080
+870,Lenovo,Notebook,15.6,4,Windows 10,2.38,1055.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+871,Lenovo,Notebook,15.6,4,No OS,2.2,479.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M430,Full HD,1920,1080
+872,Toshiba,Notebook,15.6,8,Windows 10,2.0,1388.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+873,Lenovo,Notebook,13.3,4,Windows 10,1.44,735.0,180.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+874,Samsung,Ultrabook,15.0,16,Windows 10,1.23,1849.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+875,Dell,Ultrabook,12.5,8,Windows 10,1.6,1690.0,256.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Intel,HD Graphics 620,Full HD,1920,1080
+876,Asus,Notebook,15.6,4,Linux,2.0,398.99,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Unknown,1366,768
+877,Xiaomi,Ultrabook,13.3,8,Windows 10,1.28,935.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+878,Dell,Notebook,15.6,4,Windows 10,2.18,912.5,128.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,Full HD,1920,1080
+879,HP,Notebook,15.6,4,Windows 10,2.04,839.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+880,HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,1700.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+881,HP,2 in 1 Convertible,15.6,4,Windows 10,2.3,684.8,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Touchscreen,1366,768
+882,Asus,Notebook,14.1,4,Windows 10,1.65,348.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+883,Lenovo,Notebook,15.6,8,Windows 10,2.2,669.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6500U,2.5,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+884,Dell,Notebook,15.6,4,Windows 10,2.2,369.0,0.0,500.0,0.0,0.0,Intel,Pentium Quad Core N3710,1.6,Intel,HD Graphics,Unknown,1366,768
+885,HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,1799.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+886,Dell,Notebook,15.6,4,Linux,2.18,455.7,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M420X,Unknown,1366,768
+887,Asus,Gaming,17.3,12,Windows 10,2.2,1369.9,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+888,Acer,Netbook,11.6,4,Chrome OS,1.25,297.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,IPS Panel,1366,768
+889,Lenovo,Notebook,17.3,4,Windows 10,2.8,379.0,0.0,500.0,0.0,0.0,AMD,A4-Series 7210,2.2,AMD,Radeon R3,Unknown,1600,900
+890,HP,Notebook,14.0,4,Windows 10,1.95,1265.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+891,HP,2 in 1 Convertible,13.3,16,Windows 10,1.42,1399.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Quad HD+ / Touchscreen,3200,1800
+892,Samsung,Ultrabook,15.0,8,Windows 10,1.17,1699.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+893,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1799.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+894,MSI,Gaming,17.3,16,Windows 10,2.43,2649.0,512.0,2048.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1060,IPS Panel 4K Ultra HD,3840,2160
+895,Toshiba,Notebook,13.3,8,Windows 10,1.05,1475.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+896,Dell,Gaming,15.6,8,Linux,2.62,929.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050Ti,Full HD,1920,1080
+897,HP,Notebook,15.6,8,Windows 10,2.04,900.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 930MX,Full HD,1920,1080
+898,Dell,Notebook,15.6,4,Windows 10,2.18,614.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M420X,Unknown,1366,768
+899,Dell,Notebook,15.6,8,Windows 10,1.9,935.0,0.0,500.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,Full HD,1920,1080
+900,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,2013.1,512.0,0.0,0.0,0.0,Intel,Core i7 7Y75,1.3,Intel,HD Graphics 615,Quad HD+ / Touchscreen,3200,1800
+901,Asus,Gaming,17.3,32,Windows 10,3.58,1279.0,512.0,0.0,0.0,0.0,Intel,Core i7 6820HK,2.7,Nvidia,GeForce GTX 980M,IPS Panel Full HD,1920,1080
+902,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,1649.0,256.0,0.0,0.0,0.0,Intel,Core i7 7Y75,1.3,Intel,HD Graphics 615,Full HD / Touchscreen,1920,1080
+903,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,2049.0,0.0,0.0,256.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+904,Lenovo,Notebook,15.6,8,Windows 10,1.95,1962.99,512.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+905,LG,Ultrabook,15.6,16,Windows 10,1.08,2099.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+906,HP,Netbook,12.5,8,Windows 10,1.26,1483.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+907,Acer,Notebook,15.6,4,Chrome OS,2.2,359.0,0.0,0.0,16.0,0.0,Intel,Celeron Dual Core 3205U,1.5,Intel,HD Graphics,IPS Panel Full HD,1920,1080
+908,Lenovo,Notebook,15.6,8,Windows 10,2.6,789.0,128.0,1024.0,0.0,0.0,Intel,Core i5 6300HQ,2.3,Nvidia,GeForce GTX 960M,IPS Panel Full HD,1920,1080
+909,LG,Ultrabook,14.0,8,Windows 10,0.98,1899.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+910,Dell,Notebook,14.0,8,Windows 10,1.6,1205.0,256.0,0.0,0.0,0.0,Intel,Core i5 7440HQ,2.8,Intel,HD Graphics 620,Full HD,1920,1080
+911,HP,Ultrabook,12.5,8,Windows 10,1.09,3100.0,240.0,0.0,0.0,0.0,Intel,Core M 6Y75,1.2,Intel,HD Graphics 515,4K Ultra HD / Touchscreen,3840,2160
+912,Lenovo,Notebook,15.6,6,Windows 10,2.2,789.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+913,HP,Notebook,15.6,8,Windows 10,2.04,1018.99,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 930MX,Full HD,1920,1080
+914,Acer,Notebook,15.6,4,Windows 10,2.4,499.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Full HD,1920,1080
+915,Lenovo,Notebook,13.3,4,Windows 10,1.44,881.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+916,HP,Notebook,13.3,8,Windows 10,1.49,960.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+917,MSI,Gaming,17.3,16,Windows 10,2.7,1599.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+918,Dell,Gaming,15.6,16,Windows 10,2.6,1349.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+919,MSI,Gaming,15.6,8,Windows 10,2.2,1119.91,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+920,Dell,Notebook,15.6,4,Windows 10,2.18,684.99,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R5 M420,Unknown,1366,768
+921,HP,Ultrabook,15.6,8,Windows 10,1.84,1296.99,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,AMD,Radeon R7 M365X,Full HD,1920,1080
+922,HP,Ultrabook,13.3,8,Windows 10,1.39,1149.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Quad HD+ / Touchscreen,3200,1800
+923,Toshiba,Notebook,15.6,16,Windows 10,2.4,1975.0,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Nvidia,GeForce 930M,IPS Panel Full HD,1920,1080
+924,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1825.0,512.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+925,Dell,Notebook,15.6,4,Windows 10,1.95,729.9,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+926,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1650.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+927,HP,Notebook,15.6,8,Windows 10,2.31,1165.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+928,Dell,Notebook,15.6,4,Windows 10,2.18,708.06,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+929,HP,Notebook,14.0,4,Windows 10,1.95,1149.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+930,Lenovo,Notebook,15.6,4,Windows 10,2.2,309.0,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Unknown,1366,768
+931,HP,Ultrabook,12.5,4,Windows 10,1.26,1579.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+932,HP,Notebook,15.6,4,No OS,1.86,288.9,0.0,1024.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+933,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1799.0,1024.0,0.0,0.0,0.0,Intel,Core i7 6560U,2.2,Intel,Iris Graphics 540,IPS Panel Quad HD+ / Touchscreen,3200,1800
+934,Toshiba,Notebook,14.0,4,Windows 10,1.47,1105.0,128.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,IPS Panel Full HD,1920,1080
+935,HP,Netbook,12.5,8,Windows 10,1.26,1669.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+936,Dell,Notebook,15.6,4,Windows 10,2.18,558.6,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+937,MSI,Gaming,15.6,8,Windows 10,2.2,1199.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+938,Dell,Ultrabook,14.0,8,Windows 10,1.36,1639.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+939,Dell,Gaming,17.3,16,Windows 10,4.36,2758.0,512.0,1024.0,0.0,0.0,Intel,Core i7 6820HK,2.7,Nvidia,GeForce GTX 1080,Unknown,2560,1440
+940,HP,Gaming,17.3,8,Windows 10,2.75,1399.0,128.0,1024.0,0.0,0.0,Intel,Core i5 6300HQ,2.3,Nvidia,GeForce GTX 965M,IPS Panel Full HD,1920,1080
+941,Asus,Notebook,17.3,4,Windows 10,2.8,530.0,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N3710,1.6,Nvidia,GeForce 920MX,Unknown,1600,900
+942,Acer,Notebook,15.6,4,Windows 10,2.23,619.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+943,Toshiba,Notebook,15.6,8,Windows 10,2.2,1119.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+944,Lenovo,2 in 1 Convertible,11.3,8,Windows 10,1.1,1299.0,256.0,0.0,0.0,0.0,Intel,Core M m7-6Y75,1.2,Intel,HD Graphics 515,IPS Panel Full HD / Touchscreen,1920,1080
+945,Lenovo,Gaming,15.6,16,Windows 10,2.5,999.0,512.0,1024.0,0.0,0.0,AMD,FX 8800P,2.1,AMD,Radeon R9 M385,IPS Panel Full HD,1920,1080
+946,Dell,Ultrabook,12.5,8,Windows 10,1.36,1472.2,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics,Full HD / Touchscreen,1920,1080
+947,Lenovo,Notebook,15.6,8,No OS,2.2,685.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 920MX,Full HD,1920,1080
+948,Dell,Notebook,17.3,4,Windows 10,2.36,659.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R7 M445,Unknown,1600,900
+949,Acer,Notebook,14.0,4,Chrome OS,1.68,349.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+950,HP,Workstation,15.6,8,Windows 10,2.0,2249.0,8.0,0.0,0.0,0.0,Intel,Core i7 6820HQ,2.7,Nvidia,Quadro M1000M,IPS Panel Full HD,1920,1080
+951,Dell,Ultrabook,14.0,8,Windows 10,1.36,1775.0,256.0,0.0,0.0,0.0,Intel,Core i7 7600U,2.8,Intel,HD Graphics 620,Full HD,1920,1080
+952,Toshiba,Notebook,13.3,8,Windows 7,1.2,1460.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+953,Asus,2 in 1 Convertible,12.5,8,Chrome OS,1.2,1159.0,0.0,0.0,64.0,0.0,Intel,Core M M7-6Y75,1.2,Intel,HD Graphics 515,Full HD,1920,1080
+954,Lenovo,Ultrabook,14.0,8,Windows 10,1.7,1488.99,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,IPS Panel Full HD,1920,1080
+955,Dell,Gaming,17.3,16,Windows 10,4.36,3154.0,512.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,IPS Panel 4K Ultra HD,3840,2160
+956,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,1899.0,256.0,0.0,0.0,0.0,Intel,Core i5 7Y54,1.2,Intel,HD Graphics 615,Full HD / Touchscreen,1920,1080
+957,HP,2 in 1 Convertible,11.6,4,Windows 10,1.45,775.0,256.0,0.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Touchscreen,1366,768
+958,Dell,Ultrabook,13.3,8,Windows 10,1.3,1268.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Quad HD+,3200,1800
+959,Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.25,389.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,IPS Panel Touchscreen,1366,768
+960,Toshiba,Notebook,13.3,8,Windows 10,1.2,1535.0,256.0,0.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Full HD,1920,1080
+961,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1760.0,256.0,0.0,0.0,0.0,Intel,Core i5 7300U,2.6,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+962,Acer,Notebook,15.6,12,Windows 10,2.4,1009.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce GTX 950M,Full HD,1920,1080
+963,Toshiba,Ultrabook,12.5,8,Windows 10,1.1,1790.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+964,HP,Notebook,15.6,8,Windows 10,2.04,846.5,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 930MX,Unknown,1366,768
+965,Dell,Notebook,15.6,4,Linux,2.25,465.62,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M430,Unknown,1366,768
+966,Dell,Notebook,15.6,4,Windows 10,1.9,825.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+967,HP,Notebook,15.6,4,Windows 10,2.04,685.0,0.0,500.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Full HD,1920,1080
+968,Dell,Gaming,17.3,32,Windows 10,4.42,3149.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,IPS Panel Full HD,1920,1080
+969,Lenovo,Notebook,15.6,6,Windows 10,2.4,695.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 920MX,Full HD,1920,1080
+970,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,1899.0,512.0,0.0,0.0,0.0,Intel,Core i7 7Y75,1.3,Intel,HD Graphics 615,Quad HD+ / Touchscreen,3200,1800
+971,Dell,Ultrabook,14.0,8,Windows 10,1.5,1962.98,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,Touchscreen,2560,1440
+972,Dell,Gaming,17.3,32,Windows 10,4.42,2800.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+973,Toshiba,Notebook,14.0,8,Windows 10,1.95,1180.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+974,Asus,Gaming,17.3,16,Windows 10,2.73,2049.9,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+975,HP,Notebook,15.6,8,Windows 10,2.04,979.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.7,Nvidia,GeForce 930MX,IPS Panel Full HD,1920,1080
+976,Lenovo,Notebook,14.0,4,Windows 7,1.7,1002.0,0.0,0.0,0.0,508.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+977,Asus,2 in 1 Convertible,15.6,16,Windows 10,2.3,1799.0,512.0,2048.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce GTX 950M,4K Ultra HD / Touchscreen,3840,2160
+978,HP,Notebook,15.6,6,Windows 10,2.04,579.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Unknown,1366,768
+979,Asus,Gaming,17.3,16,Windows 10,2.99,1749.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+980,Dell,2 in 1 Convertible,15.6,12,Windows 10,2.19,1299.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+981,Toshiba,Notebook,13.3,4,Windows 7,1.2,1195.0,128.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+982,Lenovo,Notebook,15.6,6,Windows 10,2.2,549.0,256.0,0.0,0.0,0.0,AMD,A12-Series 9720P,3.6,AMD,Radeon 530,Full HD,1920,1080
+983,Fujitsu,Notebook,15.6,4,Windows 10,2.3,649.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+984,Toshiba,Notebook,14.0,4,Windows 10,1.75,915.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+985,Dell,Notebook,15.6,4,Windows 10,2.25,599.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R5 M430,Unknown,1366,768
+986,HP,Notebook,15.6,8,Windows 10,2.04,806.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+987,Lenovo,Gaming,15.6,8,Windows 10,2.5,1189.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+988,Dell,Notebook,15.6,8,Windows 10,2.36,749.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R7 M445,Unknown,1366,768
+989,Dell,Notebook,14.0,8,Windows 10,1.6,1119.0,128.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620 ,Full HD,1920,1080
+990,HP,Netbook,12.5,8,Windows 10,0.97,1908.0,512.0,0.0,0.0,0.0,Intel,Core M 6Y75,1.2,Intel,HD Graphics 515,Full HD,1920,1080
+991,HP,Notebook,15.6,4,Windows 10,2.1,499.0,128.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon 520,Full HD,1920,1080
+992,Lenovo,Notebook,15.6,4,No OS,1.9,270.62,128.0,0.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+993,Lenovo,Notebook,15.6,8,Windows 10,2.3,1349.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+994,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.68,889.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+995,Asus,Notebook,13.3,8,Windows 10,1.4,1150.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Quad HD+,3200,1800
+996,HP,Ultrabook,13.3,8,Windows 10,1.11,1349.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+997,Acer,Notebook,15.6,4,Windows 10,2.4,380.0,0.0,500.0,0.0,0.0,Intel,Pentium Quad Core N4200,1.1,Intel,HD Graphics 505,Unknown,1366,768
+998,Asus,Gaming,15.6,16,Windows 10,2.5,1799.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+999,HP,Ultrabook,14.0,8,Windows 10,1.48,2089.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+1000,Acer,Gaming,15.6,8,Windows 10,2.7,1260.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+1001,HP,Notebook,13.3,8,Windows 10,1.34,1189.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+1002,Dell,Notebook,15.6,4,Windows 10,2.18,547.0,128.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+1003,HP,Notebook,14.0,4,Windows 10,1.64,779.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1004,Toshiba,Notebook,13.3,4,Windows 10,1.2,1195.0,128.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1005,HP,Notebook,14.0,4,Windows 10,1.48,1099.99,256.0,0.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Unknown,1366,768
+1006,HP,Notebook,14.0,4,Windows 10,1.95,1205.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+1007,HP,Ultrabook,14.0,8,Windows 7,1.43,1449.0,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,Full HD,1920,1080
+1008,HP,Notebook,14.0,8,Windows 10,1.64,1049.26,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 930MX,Full HD,1920,1080
+1009,HP,Notebook,14.0,4,Windows 10,1.64,684.0,0.0,500.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+1010,Dell,Gaming,15.6,8,Windows 10,2.65,949.0,0.0,0.0,0.0,1024.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+1011,HP,Ultrabook,12.5,4,Windows 10,1.26,1539.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+1012,HP,Notebook,14.0,4,Windows 10,1.48,1590.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+1013,HP,Ultrabook,14.0,8,Windows 10,1.54,1887.21,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+1014,HP,Notebook,13.3,4,Windows 10,1.49,800.0,0.0,500.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+1015,Toshiba,Notebook,13.3,8,Windows 10,1.5,1210.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1016,HP,Notebook,15.6,4,Windows 10,2.04,769.99,256.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+1017,Lenovo,Notebook,17.3,16,Windows 7,2.4,2968.0,512.0,0.0,0.0,0.0,Intel,Core i7 6820HQ,2.7,Nvidia,Quadro 3000M,IPS Panel 4K Ultra HD,3840,2160
+1018,Toshiba,Notebook,14.0,8,Windows 10,1.47,1490.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,IPS Panel Full HD,1920,1080
+1019,HP,Notebook,14.0,8,Windows 10,1.43,2229.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+1020,Dell,2 in 1 Convertible,15.6,4,Windows 10,2.08,795.99,0.0,1024.0,0.0,0.0,Intel,Core i3 6100U,2.3,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+1021,Toshiba,Ultrabook,13.3,8,Windows 10,1.2,1590.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1022,HP,Notebook,13.3,8,Windows 10,1.11,1149.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+1023,HP,Notebook,14.0,8,Windows 10,1.64,1185.43,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 930MX,Full HD,1920,1080
+1024,Dell,Notebook,15.6,8,Windows 10,2.09,1046.44,0.0,500.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Full HD,1920,1080
+1025,HP,Ultrabook,12.5,4,Windows 10,1.26,1559.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1026,HP,Notebook,14.0,4,Windows 10,2.31,1189.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1027,HP,Notebook,14.0,4,Windows 10,1.95,1060.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1028,Dell,Ultrabook,13.3,8,Windows 10,1.29,1624.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Quad HD+ / Touchscreen,3200,1800
+1029,HP,Notebook,17.3,8,Windows 10,2.63,1080.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 930MX,Full HD,1920,1080
+1030,HP,Notebook,14.0,4,Windows 10,1.64,973.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1031,Acer,Notebook,15.6,6,Windows 10,2.1,409.0,0.0,1024.0,0.0,0.0,AMD,A9-Series 9420,3.0,AMD,Radeon R5,Unknown,1366,768
+1032,MSI,Gaming,17.3,8,Windows 10,2.7,1191.8,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+1033,HP,Notebook,14.0,8,Windows 7,1.95,1195.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1034,HP,Notebook,15.6,8,Windows 10,1.84,1228.99,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+1035,HP,Ultrabook,12.5,8,Windows 10,1.26,1349.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+1036,HP,Notebook,15.6,4,Windows 10,2.04,742.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1037,Toshiba,Ultrabook,14.0,8,Windows 10,1.47,1725.0,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,IPS Panel Full HD,1920,1080
+1038,Dell,Notebook,15.6,8,Windows 7,2.09,1062.95,256.0,0.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Full HD,1920,1080
+1039,HP,Notebook,14.0,8,Windows 10,1.64,1010.51,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+1040,Lenovo,2 in 1 Convertible,15.6,4,Windows 10,1.8,847.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+1041,Vero,Notebook,14.0,2,Windows 10,1.45,210.8,0.0,0.0,32.0,0.0,Intel,Atom X5-Z8350,1.44,Intel,HD Graphics 400,Unknown,1366,768
+1042,Toshiba,Notebook,15.6,16,Windows 10,2.4,1425.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Nvidia,GeForce 930M,IPS Panel Full HD,1920,1080
+1043,Lenovo,Notebook,15.6,8,Windows 10,2.3,1049.6,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1044,HP,Notebook,14.0,4,Windows 10,1.54,1000.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1045,HP,Notebook,15.6,8,Windows 10,1.84,2103.34,256.0,500.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Full HD,1920,1080
+1046,HP,Notebook,14.0,8,Windows 7,1.43,1469.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1047,MSI,Gaming,17.3,16,Windows 10,3.78,1545.64,256.0,1024.0,0.0,0.0,Intel,Core i7 6820HK,2.7,Nvidia,GeForce GTX 980M,IPS Panel Full HD,1920,1080
+1048,Lenovo,Gaming,17.3,16,Windows 10,4.6,2289.99,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 980M,IPS Panel Full HD,1920,1080
+1049,Asus,Netbook,11.6,4,Chrome OS,1.2,287.9,0.0,0.0,16.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+1050,Lenovo,Notebook,14.0,16,Windows 7,1.1,2620.0,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,IPS Panel,2560,1440
+1051,HP,Notebook,15.6,8,Windows 10,1.91,979.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,IPS Panel Full HD,1920,1080
+1052,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.3,1094.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+1053,HP,Notebook,15.6,4,Windows 10,2.04,979.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1054,Dell,Ultrabook,13.3,16,Windows 10,1.2,2254.0,1024.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Quad HD+ / Touchscreen,3200,1800
+1055,HP,Notebook,15.6,4,Windows 10,2.31,705.15,0.0,500.0,0.0,0.0,Intel,Core i3 6100U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1056,HP,Notebook,15.6,4,No OS,1.96,499.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1057,Acer,Notebook,15.6,8,Windows 10,2.4,449.0,0.0,1024.0,0.0,0.0,AMD,A8-Series 7410,2.2,AMD,Radeon R5,Unknown,1366,768
+1058,Dell,2 in 1 Convertible,13.3,12,Windows 10,1.6,1299.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+1059,MSI,Gaming,15.6,16,Windows 10,2.94,1819.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+1060,HP,Notebook,15.6,8,Windows 10,2.04,1070.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+1061,Asus,Gaming,17.3,16,No OS,4.0,998.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 965M,IPS Panel Full HD,1920,1080
+1062,Dell,Notebook,15.6,4,Windows 10,2.25,559.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics,Full HD,1920,1080
+1063,Dell,Notebook,15.6,16,Windows 10,2.32,989.99,0.0,2048.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R7 M445,Full HD,1920,1080
+1064,MSI,Gaming,15.6,16,Windows 10,1.8,1929.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+1065,Dell,Ultrabook,13.3,8,Windows 10,1.29,1458.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+1066,Asus,Gaming,17.3,64,Windows 10,3.58,3975.0,1024.0,0.0,0.0,0.0,Intel,Core i7 6820HK,2.7,Nvidia,GeForce GTX 980 ,IPS Panel Full HD,1920,1080
+1067,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,798.01,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD / Touchscreen,1920,1080
+1068,Dell,Gaming,15.6,16,Windows 10,3.21,1329.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 970M,4K Ultra HD,3840,2160
+1069,Apple,Ultrabook,12.0,8,Mac OS X,0.92,1300.0,0.0,0.0,256.0,0.0,Intel,Core M,1.1,Intel,HD Graphics 515,IPS Panel Retina Display,2304,1440
+1070,Dell,Notebook,15.6,4,Windows 10,2.06,481.98,0.0,500.0,0.0,0.0,Intel,Core i3 6100U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1071,HP,Notebook,15.6,4,Windows 10,2.31,1199.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1072,HP,Ultrabook,12.5,8,Windows 7,1.26,1199.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1073,HP,Notebook,13.3,8,Windows 10,1.49,1090.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+1074,Lenovo,Ultrabook,12.5,8,Windows 10,1.3,1713.49,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+1075,Lenovo,Notebook,17.3,8,Windows 10,3.0,659.0,0.0,1024.0,0.0,0.0,Intel,Core i5 6200U,2.3,AMD,Radeon R5 M330,Unknown,1600,900
+1076,Lenovo,Notebook,15.6,4,Windows 10,2.3,977.0,0.0,1024.0,0.0,0.0,Intel,Core i5 6300HQ,2.3,Nvidia,GeForce GTX 950M,IPS Panel Full HD,1920,1080
+1077,MSI,Gaming,17.3,16,Windows 10,3.78,2499.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+1078,Lenovo,Notebook,15.6,4,Windows 10,2.1,540.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1079,HP,Notebook,15.6,4,Windows 7,2.31,940.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1080,Lenovo,Ultrabook,12.5,8,Windows 10,0.99,1399.0,512.0,0.0,0.0,0.0,Intel,Core M 6Y75,1.2,Intel,HD Graphics 515,IPS Panel Touchscreen,2560,1440
+1081,Lenovo,Gaming,17.3,32,Windows 10,4.6,3240.0,512.0,0.0,0.0,1024.0,Intel,Core i7 6820HK,2.7,Nvidia,GeForce GTX 980M,IPS Panel Full HD,1920,1080
+1082,Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,646.27,0.0,0.0,64.0,0.0,Intel,Atom x5-Z8550,1.44,Intel,HD Graphics 400,IPS Panel Touchscreen,1920,1200
+1083,HP,Ultrabook,13.3,16,Windows 10,1.3,2049.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel 4K Ultra HD,3840,2160
+1084,Dell,Notebook,15.6,8,Windows 10,2.18,750.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Full HD,1920,1080
+1085,HP,Notebook,14.0,4,Windows 7,1.54,1030.99,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1086,HP,Workstation,15.6,8,Windows 7,1.9,1495.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,AMD,FirePro W4190M,Full HD,1920,1080
+1087,Lenovo,Notebook,14.0,8,Windows 7,1.7,1199.0,180.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1088,HP,Notebook,13.3,4,Chrome OS,1.29,615.0,0.0,0.0,32.0,0.0,Intel,Pentium Dual Core 4405Y,1.5,Intel,HD Graphics 515,Quad HD+,3200,1800
+1089,Acer,Notebook,15.6,4,Windows 10,2.4,387.0,0.0,500.0,0.0,0.0,AMD,A8-Series 7410,2.2,AMD,Radeon R5,Unknown,1366,768
+1090,Dell,Notebook,15.6,4,Linux,2.2,393.49,0.0,500.0,0.0,0.0,Intel,Pentium Quad Core N3700,1.6,Intel,HD Graphics,Unknown,1366,768
+1091,HP,Notebook,15.6,4,No OS,1.86,345.99,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+1092,Asus,Gaming,17.3,8,Windows 10,2.7,1599.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+1093,Dell,Ultrabook,13.3,4,Windows 10,1.4,818.35,256.0,0.0,0.0,0.0,Intel,Core i5 8250U,1.6,AMD,Radeon 530,IPS Panel Full HD,1920,1080
+1094,HP,Netbook,12.5,4,Windows 7,2.4,1599.0,128.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1095,Acer,Notebook,15.6,8,Windows 10,2.4,799.0,256.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce GTX 950M,Full HD,1920,1080
+1096,Dell,Notebook,15.6,8,Windows 10,2.36,638.8,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R7 M445,Full HD,1920,1080
+1097,MSI,Gaming,17.3,8,Windows 10,2.6,1599.0,256.0,0.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 965M,Full HD,1920,1080
+1098,HP,Notebook,15.6,4,Windows 10,1.96,500.0,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N3710,1.6,Intel,HD Graphics 405,Unknown,1366,768
+1099,Asus,Gaming,17.3,16,Windows 10,4.3,2299.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 980M,IPS Panel Full HD,1920,1080
+1100,Dell,Ultrabook,12.5,4,Windows 7,1.5,1135.15,0.0,500.0,0.0,0.0,Intel,Core i3 6100U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1101,Dell,Ultrabook,12.5,4,Windows 7,1.5,1166.97,128.0,0.0,0.0,0.0,Intel,Core i3 6100U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1102,Acer,Notebook,15.6,4,Chrome OS,2.2,209.0,16.0,0.0,0.0,0.0,Intel,Celeron Dual Core 3205U,1.5,Intel,HD Graphics,Unknown,1366,768
+1103,HP,Workstation,17.3,8,Windows 7,3.0,2899.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,AMD,FirePro W6150M,IPS Panel Full HD,1920,1080
+1104,Lenovo,Gaming,15.6,16,Windows 10,2.4,1199.0,512.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+1105,Dell,Ultrabook,12.5,8,Windows 7,1.5,1413.1,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1106,MSI,Gaming,17.3,8,Windows 10,2.9,1511.19,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,Full HD,1920,1080
+1107,Lenovo,2 in 1 Convertible,15.6,4,Windows 10,2.1,867.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+1108,HP,Notebook,15.6,4,Windows 10,2.1,398.0,0.0,1024.0,0.0,0.0,AMD,A6-Series 9220,2.5,AMD,Radeon R4,Full HD,1920,1080
+1109,Asus,Gaming,15.6,16,Windows 10,2.59,1339.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,IPS Panel Full HD,1920,1080
+1110,HP,Notebook,13.3,8,Windows 10,1.16,1699.0,256.0,0.0,0.0,0.0,Intel,Core M 6Y54,1.1,Intel,HD Graphics 515,Quad HD+ / Touchscreen,3200,1800
+1111,Dell,Notebook,15.6,4,Windows 7,2.24,769.15,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,AMD,Radeon R5 M315,Unknown,1366,768
+1112,Lenovo,Notebook,15.6,4,Windows 10,2.1,429.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+1113,HP,Ultrabook,13.3,8,Windows 10,1.16,1969.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+1114,Lenovo,2 in 1 Convertible,10.1,4,Android,0.69,549.0,0.0,0.0,64.0,0.0,Intel,Atom x5-Z8550,1.44,Intel,HD Graphics 400,IPS Panel Touchscreen,1920,1200
+1115,Dell,Ultrabook,13.3,8,Windows 10,1.23,1379.0,256.0,0.0,0.0,0.0,Intel,Core i7 7560U,2.4,Intel,Iris Plus Graphics 640,Full HD,1920,1080
+1116,Lenovo,Gaming,17.3,16,Windows 10,4.6,2749.99,256.0,0.0,0.0,1024.0,Intel,Core i7 6820HK,2.7,Nvidia,GeForce GTX 980M,IPS Panel Full HD,1920,1080
+1117,Razer,Ultrabook,12.5,8,Windows 10,1.25,1029.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Touchscreen / 4K Ultra HD,3840,2160
+1118,Toshiba,Ultrabook,13.3,16,Windows 10,1.05,2226.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+1119,Asus,Gaming,17.3,8,Windows 10,3.52,1312.49,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,Full HD,1920,1080
+1120,Vero,Notebook,13.3,4,Windows 10,1.35,196.0,0.0,0.0,32.0,0.0,Intel,Atom X5-Z8350,1.44,Intel,HD Graphics 400,Full HD,1920,1080
+1121,HP,Notebook,13.3,8,Windows 10,1.16,1690.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1122,HP,Notebook,14.0,8,Windows 7,1.43,1513.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1123,Dell,Notebook,15.6,4,Linux,2.09,523.63,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1124,Asus,Notebook,15.6,4,Windows 10,2.0,435.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+1125,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.8,1669.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+1126,Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,479.0,0.0,0.0,64.0,0.0,Intel,Atom x5-Z8550,1.44,Intel,HD Graphics 400,IPS Panel Touchscreen,1920,1200
+1127,HP,Ultrabook,12.5,8,Windows 7,1.26,1895.0,256.0,0.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Unknown,1366,768
+1128,Lenovo,Gaming,15.6,8,No OS,2.4,989.0,128.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+1129,HP,Gaming,17.3,8,Windows 10,3.35,1129.0,128.0,1024.0,0.0,0.0,Intel,Core i5 6300HQ,2.3,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+1130,HP,Notebook,15.6,8,Windows 10,2.04,629.0,0.0,2048.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Unknown,1366,768
+1131,Lenovo,2 in 1 Convertible,14.0,8,Windows 7,1.8,2050.38,512.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Nvidia,Quadro M500M,IPS Panel Full HD / Touchscreen,1920,1080
+1132,Asus,Notebook,14.0,4,Windows 10,1.5,278.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+1133,HP,Ultrabook,15.6,8,Windows 10,1.84,752.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD,1920,1080
+1134,Acer,Notebook,15.6,4,Windows 10,2.23,616.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,Full HD,1920,1080
+1135,Lenovo,Notebook,15.6,16,Windows 10,2.5,1099.0,0.0,0.0,0.0,1024.0,Intel,Core i7 6500U,2.5,AMD,Radeon R7 M360,Full HD,1920,1080
+1136,HP,Workstation,17.3,8,Windows 7,3.0,3949.4,256.0,0.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,Quadro M3000M,IPS Panel Full HD,1920,1080
+1137,Dell,Notebook,15.6,8,Windows 10,2.5,784.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R7 M445,Unknown,1366,768
+1138,MSI,Gaming,17.3,16,Windows 10,3.78,2399.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6820HQ,2.7,Nvidia,GeForce GTX 980M,Full HD,1920,1080
+1139,HP,Ultrabook,15.6,8,Windows 7,1.88,2171.72,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+1140,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,2.8,2440.0,512.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,IPS Panel Touchscreen,2560,1440
+1141,MSI,Gaming,15.6,8,Windows 10,2.4,1142.8,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+1142,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,1629.0,256.0,0.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Full HD / Touchscreen,1920,1080
+1143,HP,Workstation,15.6,8,Windows 7,2.59,2229.0,256.0,0.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,Quadro M1000M,IPS Panel Full HD,1920,1080
+1144,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,1799.0,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,Touchscreen,2560,1440
+1145,HP,Workstation,15.6,8,Windows 7,2.0,1899.0,256.0,0.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,Quadro M1000M,Full HD,1920,1080
+1146,HP,Ultrabook,12.5,8,Windows 7,1.26,2296.95,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+1147,Dell,Notebook,15.6,8,Windows 10,2.18,1009.9,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+1148,HP,Notebook,15.6,8,Windows 7,1.88,1579.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1149,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.27,2339.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Touchscreen,2560,1440
+1150,Lenovo,Notebook,15.6,4,No OS,1.9,339.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+1151,HP,Notebook,15.6,4,Windows 10,1.86,297.0,0.0,500.0,0.0,0.0,AMD,E-Series 7110,1.8,AMD,Radeon R2 Graphics,Unknown,1366,768
+1152,Lenovo,Notebook,15.6,8,No OS,2.32,599.0,0.0,1024.0,0.0,0.0,Intel,Core i5 6200U,2.3,AMD,Radeon R5 M330,Full HD,1920,1080
+1153,Dell,Gaming,15.6,8,Windows 10,2.62,1199.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050Ti,Full HD,1920,1080
+1154,Dell,Notebook,15.6,8,Windows 10,2.04,2250.68,256.0,0.0,0.0,0.0,Intel,Core i5 6300HQ,2.3,Nvidia,GeForce 960M,IPS Panel Touchscreen / 4K Ultra HD,3840,2160
+1155,HP,Notebook,15.6,4,Windows 10,1.91,478.89,256.0,0.0,0.0,0.0,AMD,A6-Series A6-9220,2.5,AMD,Radeon 520,Full HD,1920,1080
+1156,MSI,Gaming,17.3,16,Windows 10,2.7,1492.8,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,Full HD,1920,1080
+1157,Lenovo,Ultrabook,14.0,12,Windows 7,1.4,2299.0,512.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,Full HD,1920,1080
+1158,Lenovo,Notebook,15.6,8,Windows 10,2.5,788.49,0.0,0.0,0.0,1024.0,Intel,Core i5 6200U,2.3,AMD,Radeon R5 M330,Full HD,1920,1080
+1159,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,2041.0,512.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,Touchscreen,2560,1440
+1160,Lenovo,Ultrabook,14.0,8,Windows 7,1.7,1499.0,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,Full HD,1920,1080
+1161,MSI,Gaming,14.0,16,Windows 10,1.7,1769.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 970M,Full HD,1920,1080
+1162,HP,Gaming,15.6,8,Windows 10,2.62,899.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+1163,Lenovo,Notebook,15.6,8,Windows 10,2.2,459.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+1164,HP,Notebook,15.6,4,No OS,2.1,476.99,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1165,Dell,Gaming,15.6,8,Windows 10,2.62,1498.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,4K Ultra HD,3840,2160
+1166,Lenovo,Notebook,15.6,8,Windows 10,1.95,1390.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+1167,Lenovo,Notebook,15.6,4,Windows 10,2.2,468.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Nvidia,GeForce 920MX ,Full HD,1920,1080
+1168,HP,Notebook,14.0,2,Windows 10,1.44,249.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+1169,MSI,Gaming,15.6,8,Windows 10,2.2,839.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+1170,HP,Notebook,15.6,8,Windows 10,1.96,679.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+1171,HP,Notebook,15.6,16,Windows 10,2.1,1159.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD,1920,1080
+1172,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
+1173,Lenovo,Notebook,15.6,4,No OS,2.1,398.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1174,Lenovo,Notebook,15.6,8,No OS,2.2,709.0,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD,1920,1080
+1175,Asus,Notebook,14.0,4,Windows 10,2.0,769.0,256.0,0.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Full HD,1920,1080
+1176,Lenovo,Notebook,15.6,4,Windows 7,2.32,825.0,0.0,0.0,0.0,1024.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+1177,Lenovo,Gaming,15.6,16,Windows 10,3.31,1305.0,512.0,0.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960,IPS Panel Full HD,1920,1080
+1178,MSI,Gaming,15.6,16,Windows 10,1.91,2153.37,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 970M,Full HD,1920,1080
+1179,HP,Notebook,15.6,4,Windows 10,2.07,650.0,0.0,500.0,0.0,0.0,Intel,Core i3 6100U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1180,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.36,1637.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,IPS Panel Touchscreen,2560,1440
+1181,Lenovo,Ultrabook,15.6,6,Windows 10,1.54,831.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 920M,Full HD,1920,1080
+1182,Dell,Notebook,15.6,8,Linux,1.98,895.01,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce GT 940MX,Full HD,1920,1080
+1183,Acer,Notebook,15.6,4,Windows 10,2.1,333.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3350,2.0,Intel,HD Graphics 500,Unknown,1366,768
+1184,HP,Notebook,15.6,6,Windows 10,2.18,799.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,IPS Panel Full HD,1920,1080
+1185,Asus,Gaming,15.6,8,Windows 10,2.591,909.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,IPS Panel Full HD,1920,1080
+1186,Dell,2 in 1 Convertible,15.6,16,Windows 10,2.09,1179.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+1187,Acer,Notebook,15.6,4,Windows 10,2.23,691.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Nvidia,GeForce 940MX,Full HD,1920,1080
+1188,Dell,Ultrabook,13.3,8,Linux,1.23,1099.0,256.0,0.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Quad HD+ / Touchscreen,3200,1800
+1189,Acer,Gaming,17.3,16,Windows 10,4.2,2599.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,IPS Panel Full HD,1920,1080
+1190,Lenovo,Gaming,15.6,8,Windows 10,2.4,819.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7300HQ,2.5,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+1191,Samsung,2 in 1 Convertible,12.3,4,Chrome OS,1.15,659.0,0.0,0.0,32.0,0.0,Samsung,Cortex A72&A53,2.0,ARM,Mali T860 MP4,IPS Panel Touchscreen,2400,1600
+1192,HP,Notebook,15.6,4,Windows 10,1.86,485.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1193,Apple,Ultrabook,12.0,8,Mac OS X,0.92,1163.0,0.0,0.0,256.0,0.0,Intel,Core M,1.1,Intel,HD Graphics 5300,IPS Panel Retina Display,2304,1440
+1194,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,1199.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+1195,HP,Notebook,15.6,12,Windows 10,2.21,1327.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,IPS Panel Full HD,1920,1080
+1196,Lenovo,Notebook,15.6,4,No OS,1.9,368.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R5 M430,Unknown,1366,768
+1197,Asus,Gaming,17.3,16,Windows 10,4.3,2150.0,512.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 980M,IPS Panel Full HD,1920,1080
+1198,Acer,Notebook,15.6,4,Linux,2.1,272.0,0.0,1024.0,0.0,0.0,Intel,Celeron Dual Core N3350,2.0,Intel,HD Graphics 500,Unknown,1366,768
+1199,MSI,Gaming,17.3,16,Windows 10,2.43,2048.9,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+1200,Dell,Notebook,15.6,4,Windows 10,2.3,499.0,128.0,0.0,0.0,0.0,Intel,Core i3 6006U,2.0,AMD,Radeon R7 M440,Unknown,1366,768
+1201,Lenovo,Notebook,15.6,8,No OS,2.2,629.0,0.0,500.0,0.0,0.0,Intel,Core i7 6500U,2.5,Nvidia,GeForce 920MX,Unknown,1366,768
+1202,Dell,2 in 1 Convertible,15.6,16,Windows 10,2.0,1285.0,512.0,0.0,0.0,0.0,Intel,Core i7 8550U,1.8,Intel,UHD Graphics 620,Full HD / Touchscreen,1920,1080
+1203,Dell,Ultrabook,13.3,16,Windows 10,1.2,2680.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Quad HD+ / Touchscreen,3200,1800
+1204,Asus,Gaming,15.6,8,Windows 10,2.2,1169.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+1205,Dell,Notebook,15.6,8,Windows 10,2.36,889.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,AMD,Radeon R7 M445,Full HD,1920,1080
+1206,HP,Notebook,15.6,8,Windows 10,1.91,579.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1207,Lenovo,Notebook,15.6,4,Windows 10,2.2,299.0,0.0,500.0,0.0,0.0,AMD,E-Series 9000,2.2,AMD,Radeon R2 Graphics,Unknown,1366,768
+1208,Acer,Notebook,17.3,8,Windows 10,3.3,629.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Nvidia,GeForce 940MX,Unknown,1600,900
+1209,Asus,Gaming,15.6,16,Windows 10,2.2,2449.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1070,Full HD,1920,1080
+1210,Apple,Ultrabook,12.0,8,Mac OS X,0.92,1279.0,0.0,0.0,512.0,0.0,Intel,Core M,1.2,Intel,HD Graphics 515,IPS Panel Retina Display,2304,1440
+1211,Asus,Notebook,15.6,16,Windows 10,2.2,1749.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+1212,MSI,Gaming,17.3,16,Windows 10,2.43,1948.99,256.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1060,IPS Panel Full HD,1920,1080
+1213,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.191,999.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD / Touchscreen,1920,1080
+1214,Asus,Gaming,17.3,16,Windows 10,2.9,1949.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+1215,Acer,Netbook,11.6,2,Chrome OS,1.3,174.0,32.0,0.0,0.0,0.0,Intel,Celeron Dual Core 3205U,1.5,Intel,HD Graphics,Unknown,1366,768
+1216,Acer,Notebook,17.3,4,Windows 10,3.3,598.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Nvidia,GeForce 940MX,Unknown,1600,900
+1217,Lenovo,Notebook,17.3,8,No OS,2.8,539.0,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1600,900
+1218,Lenovo,Gaming,15.6,8,Windows 10,2.6,1272.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960<U+039C>,IPS Panel Full HD,1920,1080
+1219,Acer,2 in 1 Convertible,14.0,8,Windows 10,1.2,1149.0,256.0,0.0,0.0,0.0,Intel,Core i7 7Y75,1.3,Intel,HD Graphics 615,IPS Panel Full HD / Touchscreen,1920,1080
+1220,Lenovo,Notebook,15.6,8,Windows 10,2.3,1529.0,256.0,0.0,0.0,0.0,Intel,Core i7 6600U,2.6,Intel,HD Graphics 520,IPS Panel Full HD,1920,1080
+1221,MSI,Gaming,15.6,8,Windows 10,2.2,1476.11,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+1222,HP,Notebook,15.6,6,Windows 10,2.1,529.0,0.0,1024.0,0.0,0.0,AMD,A12-Series 9720P,2.7,AMD,Radeon 530,Full HD,1920,1080
+1223,Dell,Ultrabook,12.5,8,Windows 7,1.26,1713.37,256.0,0.0,0.0,0.0,Intel,Core i5 6300U,2.4,Intel,HD Graphics 520,Full HD / Touchscreen,1920,1080
+1224,Dell,2 in 1 Convertible,15.0,4,Windows 10,2.08,509.0,0.0,500.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Full HD / Touchscreen,1920,1080
+1225,Asus,Notebook,15.6,4,Windows 10,2.65,309.0,0.0,1024.0,0.0,0.0,Intel,Pentium Quad Core N3710,1.6,Intel,HD Graphics 405,Unknown,1366,768
+1226,Dell,Ultrabook,13.3,8,Windows 10,1.29,1477.0,256.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,Quad HD+ / Touchscreen,3200,1800
+1227,Dell,Notebook,15.6,4,Linux,2.18,521.86,0.0,1024.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 520,Unknown,1366,768
+1228,Lenovo,Gaming,15.6,16,Windows 10,2.6,1029.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,IPS Panel Full HD / Touchscreen,1920,1080
+1229,MSI,Gaming,15.6,8,Windows 10,2.2,1149.0,128.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050,Full HD,1920,1080
+1230,Lenovo,Netbook,12.5,16,Windows 10,1.3,1650.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+1231,Razer,Gaming,14.0,16,Windows 10,1.95,3499.0,1024.0,0.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+1232,Dell,Notebook,15.6,8,Windows 10,2.3,469.01,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Touchscreen,1366,768
+1233,MSI,Gaming,17.3,16,Windows 10,2.7,1598.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1060,Full HD,1920,1080
+1234,Apple,Ultrabook,11.6,4,Mac OS X,1.08,959.0,0.0,0.0,256.0,0.0,Intel,Core i5,1.6,Intel,HD Graphics 6000,Unknown,1366,768
+1235,HP,Notebook,15.6,4,Windows 10,2.1,478.0,0.0,1024.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Full HD,1920,1080
+1236,HP,Ultrabook,14.0,8,Windows 7,1.54,2198.19,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Unknown,2560,1440
+1237,Dell,Notebook,15.6,4,Windows 7,2.24,737.0,0.0,500.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Unknown,1366,768
+1238,MSI,Gaming,15.6,8,Windows 10,2.3,1169.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,Full HD,1920,1080
+1239,Lenovo,Notebook,13.3,16,Windows 10,1.4,1499.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+1240,Lenovo,Notebook,15.6,6,Windows 10,2.2,597.57,256.0,0.0,0.0,0.0,AMD,A12-Series 9720P,3.6,AMD,Radeon 530,Full HD,1920,1080
+1241,Asus,Ultrabook,13.3,8,Windows 10,1.45,1280.0,256.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,Full HD,1920,1080
+1242,Acer,Notebook,15.6,4,Linux,2.4,361.8,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+1243,Dell,2 in 1 Convertible,17.3,16,Windows 10,2.77,1799.0,512.0,0.0,0.0,0.0,Intel,Core i7 7500U,2.7,Nvidia,GeForce 940MX,Full HD / Touchscreen,1920,1080
+1244,HP,Notebook,14.0,4,Windows 7,1.54,1099.99,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD,1920,1080
+1245,Asus,Gaming,15.6,16,Windows 10,2.5,1600.0,256.0,1024.0,0.0,0.0,Intel,Core i7 7700HQ,2.8,Nvidia,GeForce GTX 1050 Ti,IPS Panel Full HD,1920,1080
+1246,Dell,Notebook,14.0,4,Windows 10,1.6,875.0,0.0,500.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,Unknown,1366,768
+1247,Asus,Gaming,15.6,16,Windows 10,2.34,2325.0,256.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 1070,IPS Panel Full HD,1920,1080
+1248,Lenovo,Notebook,15.6,8,No OS,2.3,573.0,256.0,0.0,0.0,0.0,Intel,Core i5 7200U,2.5,Intel,HD Graphics 620,IPS Panel Full HD,1920,1080
+1249,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,1813.0,256.0,0.0,0.0,0.0,Intel,Core i5 7Y54,1.2,Intel,HD Graphics 615,Quad HD+ / Touchscreen,3200,1800
+1250,Dell,Notebook,15.6,4,Linux,2.2,324.0,0.0,500.0,0.0,0.0,Intel,Pentium Quad Core N3710,1.6,Intel,HD Graphics,Unknown,1366,768
+1251,HP,Notebook,15.6,4,Windows 10,1.86,399.0,0.0,500.0,0.0,0.0,AMD,A6-Series 9220,2.5,AMD,Radeon R4 Graphics,Unknown,1366,768
+1252,Lenovo,Notebook,15.6,6,Windows 10,2.4,569.0,128.0,0.0,0.0,0.0,Intel,Core i3 6100U,2.3,Nvidia,GeForce 920MX,Full HD,1920,1080
+1253,Lenovo,Notebook,14.0,8,Windows 10,1.9,1072.0,256.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,IPS Panel Full HD,1920,1080
+1254,Dell,Notebook,15.6,4,Windows 10,2.2,443.99,0.0,500.0,0.0,0.0,Intel,Pentium Quad Core N3700,1.6,Intel,HD Graphics,Unknown,1366,768
+1255,Asus,Notebook,15.6,4,Windows 10,2.0,339.0,0.0,1024.0,0.0,0.0,Intel,Celeron Dual Core N3350,1.1,Intel,HD Graphics 500,Unknown,1366,768
+1256,Asus,Gaming,17.3,16,Windows 10,4.0,1900.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 970M,IPS Panel Full HD,1920,1080
+1257,Dell,Notebook,15.6,4,Windows 10,2.29,490.0,0.0,500.0,0.0,0.0,Intel,Core i3 6006U,2.0,Intel,HD Graphics 520,Unknown,1366,768
+1258,Lenovo,Notebook,15.6,8,Windows 7,2.32,895.0,0.0,0.0,0.0,1024.0,Intel,Core i7 6500U,2.5,AMD,Radeon R5 M330,Full HD,1920,1080
+1259,MSI,Gaming,15.6,8,Windows 10,2.4,1229.0,128.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,Full HD,1920,1080
+1260,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,833.01,128.0,0.0,0.0,0.0,Intel,Core i5 6200U,2.3,Intel,HD Graphics 520,Full HD / Touchscreen,1920,1080
+1261,Asus,Ultrabook,13.3,8,Windows 10,1.2,729.0,512.0,0.0,0.0,0.0,Intel,Core M 6Y30,0.9,Intel,HD Graphics 515,IPS Panel Full HD,1920,1080
+1262,Dell,Notebook,15.6,6,Windows 10,2.3,459.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+1263,Acer,Notebook,15.6,4,Linux,2.4,289.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+1264,Dell,Notebook,15.6,2,Windows 10,2.2,379.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
+1265,Lenovo,Notebook,15.6,8,Windows 10,2.6,899.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,IPS Panel Full HD,1920,1080
+1266,HP,Notebook,15.6,6,Windows 10,2.04,549.99,0.0,0.0,0.0,1024.0,AMD,A9-Series 9410,2.9,AMD,Radeon R7 M440,Full HD,1920,1080
+1267,Dell,Notebook,15.6,8,Linux,2.3,805.99,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R5 M430,Unknown,1366,768
+1268,HP,Netbook,11.6,2,Windows 10,1.17,209.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+1269,Asus,Notebook,15.6,4,Windows 10,2.2,720.32,0.0,500.0,0.0,0.0,Intel,Core i7 6500U,2.5,Nvidia,GeForce 920M,Unknown,1366,768
+1270,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,638.0,128.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+1271,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1499.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Quad HD+ / Touchscreen,3200,1800
+1272,Lenovo,Notebook,14.0,2,Windows 10,1.5,229.0,0.0,0.0,64.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
+1273,HP,Notebook,15.6,6,Windows 10,2.19,764.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6500U,2.5,AMD,Radeon R5 M330,Unknown,1366,768
+1274,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
+1275,Asus,Ultrabook,13.3,8,Windows 10,1.2,729.0,512.0,0.0,0.0,0.0,Intel,Core M 6Y30,0.9,Intel,HD Graphics 515,IPS Panel Full HD,1920,1080
+1276,Dell,Notebook,15.6,6,Windows 10,2.3,459.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+1277,Acer,Notebook,15.6,4,Linux,2.4,289.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+1278,Dell,Notebook,15.6,2,Windows 10,2.2,379.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
+1279,Lenovo,Notebook,15.6,8,Windows 10,2.6,899.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,IPS Panel Full HD,1920,1080
+1280,HP,Notebook,15.6,6,Windows 10,2.04,549.99,0.0,0.0,0.0,1024.0,AMD,A9-Series 9410,2.9,AMD,Radeon R7 M440,Full HD,1920,1080
+1281,Dell,Notebook,15.6,8,Linux,2.3,805.99,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R5 M430,Unknown,1366,768
+1282,HP,Netbook,11.6,2,Windows 10,1.17,209.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+1283,Asus,Notebook,15.6,4,Windows 10,2.2,720.32,0.0,500.0,0.0,0.0,Intel,Core i7 6500U,2.5,Nvidia,GeForce 920M,Unknown,1366,768
+1284,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,638.0,128.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+1285,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1499.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Quad HD+ / Touchscreen,3200,1800
+1286,Lenovo,Notebook,14.0,2,Windows 10,1.5,229.0,0.0,0.0,64.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
+1287,HP,Notebook,15.6,6,Windows 10,2.19,764.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6500U,2.5,AMD,Radeon R5 M330,Unknown,1366,768
+1288,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
+1289,Asus,Ultrabook,13.3,8,Windows 10,1.2,729.0,512.0,0.0,0.0,0.0,Intel,Core M 6Y30,0.9,Intel,HD Graphics 515,IPS Panel Full HD,1920,1080
+1290,Dell,Notebook,15.6,6,Windows 10,2.3,459.0,0.0,1024.0,0.0,0.0,Intel,Core i3 7100U,2.4,Intel,HD Graphics 620,Unknown,1366,768
+1291,Acer,Notebook,15.6,4,Linux,2.4,289.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+1292,Dell,Notebook,15.6,2,Windows 10,2.2,379.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
+1293,Lenovo,Notebook,15.6,8,Windows 10,2.6,899.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6700HQ,2.6,Nvidia,GeForce GTX 960M,IPS Panel Full HD,1920,1080
+1294,HP,Notebook,15.6,6,Windows 10,2.04,549.99,0.0,0.0,0.0,1024.0,AMD,A9-Series 9410,2.9,AMD,Radeon R7 M440,Full HD,1920,1080
+1295,Dell,Notebook,15.6,8,Linux,2.3,805.99,0.0,1024.0,0.0,0.0,Intel,Core i7 7500U,2.7,AMD,Radeon R5 M430,Unknown,1366,768
+1296,HP,Netbook,11.6,2,Windows 10,1.17,209.0,0.0,0.0,32.0,0.0,Intel,Celeron Dual Core N3060,1.6,Intel,HD Graphics 400,Unknown,1366,768
+1297,Asus,Notebook,15.6,4,Windows 10,2.2,720.32,0.0,500.0,0.0,0.0,Intel,Core i7 6500U,2.5,Nvidia,GeForce 920M,Unknown,1366,768
+1298,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,638.0,128.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Full HD / Touchscreen,1920,1080
+1299,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1499.0,512.0,0.0,0.0,0.0,Intel,Core i7 6500U,2.5,Intel,HD Graphics 520,IPS Panel Quad HD+ / Touchscreen,3200,1800
+1300,Lenovo,Notebook,14.0,2,Windows 10,1.5,229.0,0.0,0.0,64.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
+1301,HP,Notebook,15.6,6,Windows 10,2.19,764.0,0.0,1024.0,0.0,0.0,Intel,Core i7 6500U,2.5,AMD,Radeon R5 M330,Unknown,1366,768
+1302,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,0.0,500.0,0.0,0.0,Intel,Celeron Dual Core N3050,1.6,Intel,HD Graphics,Unknown,1366,768
