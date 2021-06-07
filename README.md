@@ -9,7 +9,7 @@ Práctica 2 de la asignatura "Tipología y ciclo de vida de los datos" realizada
 
 * csv (Carpeta donde se encontrarán los csv de la práctica)
   * laptops_inicial.csv (Csv extraídos de kaggle (https://www.kaggle.com/ionaskel/laptop-prices) que se usará durante la práctica)
-  * laptops_procesados.csv (Csv con los datos anteriores procesados, a partir de los cuales se realizan los análisis)
+  * laptops_procesados.csv (Csv con los datos finales)
 * src
   * Práctica 2 - Tipologia.ipynb (Notebook de python en donde se encuentra desarrollado el código de la práctica)
   * Práctica 2 - Tipologia.html (Mismo archivo que el anterior pero en formato html para facilitar la visualización)
